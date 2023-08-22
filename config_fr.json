@@ -1,0 +1,1820 @@
+{
+    "onBoardingSettings": {
+      "type": "custome01",
+      "enableSettingLanguage": false,
+      "recommendCategoryIds" : [
+        "gid://shopify/Collection/392394932458",
+        "gid://shopify/Collection/392398209258",
+        "gid://shopify/Collection/392399618282",
+        "gid://shopify/Collection/392398766314",
+        "gid://shopify/Collection/392398504170",
+        "gid://shopify/Collection/392397750506"
+      ],
+      "onBoardingData": [
+        {
+          "title": "Bienvenue chez Leaves & Clouds !",
+          "image": "assets/images/slide-1.jpg",
+          "desc": "Boutique éco-responsable\nBeauté, Décoration & Lifestyle"
+        },
+        {
+          "title": "Une large sélection de produits !",
+          "image": "assets/images/slide-2.jpg",
+          "desc":
+          "Découvrez plus d’une centaine de références qui prendront soin de vous mais aussi de votre intérieur, tout en respectant la planète."
+        },
+        {
+          "title": "Quels produits vous intéressent le plus ?",
+          "image": "assets/images/slide-3.jpg",
+          "desc":
+          "Gagnez des points à chaque achat et profitez de deals exclusifs."
+        }
+      ]
+    },
+    "HorizonLayout": [
+      {
+        "showLogo": true,
+        "showSearch": false,
+        "showNotification": true,
+        "menuIcon": {
+          "name": "bars",
+          "fontFamily": "CupertinoIcons"
+        },
+        "layout": "logo",
+        "showMenu": true,
+        "showCart": false
+      },
+      {
+        "backgroundColor": null,
+        "useLightColor": false,
+        "layout": "spacer",
+        "height": 10
+      },
+      {
+        "size": 1.3,
+        "marginTop": 15,
+        "hideTitle": false,
+        "layout": "category",
+        "noBackground": false,
+        "type": "icon",
+        "wrap": false,
+        "labelFontSize": 9,
+        "imageBorderStyle": "solid",
+        "paddingY": 0,
+        "radius": 50,
+        "spacing": 11,
+        "line": false,
+        "imageSpacing": 0,
+        "marginX": 0,
+        "items": [
+          {
+            "category": "gid://shopify/Collection/392394932458",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat1.png?v=1671105276",
+            "colors": [
+              "#333333"
+            ],
+            "backgroundColor": "ffece6f3",
+            "originalColor": true,
+            "keepDefaultTitle": false,
+            "showDescription": false
+          },
+          {
+            "category": "gid://shopify/Collection/392765440234",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat2.png?v=1671105276",
+            "colors": [
+              "#333333"
+            ],
+            "backgroundColor": "ffece6f3",
+            "originalColor": true,
+            "keepDefaultTitle": false,
+            "showDescription": false,
+            "title": "MAQUILLAGE"
+          },
+          {
+            "category": "gid://shopify/Collection/392397750506",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat3.png?v=1671105276",
+            "colors": [
+              "#333333"
+            ],
+            "backgroundColor": "ffece6f3",
+            "originalColor": true,
+            "keepDefaultTitle": false,
+            "showDescription": false,
+            "title": "Bien-Etre"
+          },
+          {
+            "colors": [
+              "#333333"
+            ],
+            "category": "gid://shopify/Collection/392398209258",
+            "showDescription": false,
+            "originalColor": true,
+            "backgroundColor": "ffece6f3",
+            "keepDefaultTitle": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat4.png?v=1671105277"
+          },
+          {
+            "category": "gid://shopify/Collection/392398504170",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat5.png?v=1671105277",
+            "colors": [
+              "#333333"
+            ],
+            "backgroundColor": "ffece6f3",
+            "originalColor": true,
+            "keepDefaultTitle": false,
+            "showDescription": false
+          },
+          {
+            "category": "gid://shopify/Collection/392398766314",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat6.png?v=1671105276",
+            "colors": [
+              "#333333"
+            ],
+            "backgroundColor": "ffece6f3",
+            "originalColor": true,
+            "keepDefaultTitle": false,
+            "showDescription": false
+          },
+          {
+            "category": "gid://shopify/Collection/392399061226",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat7.png?v=1671105276",
+            "colors": [
+              "#333333"
+            ],
+            "backgroundColor": "ffece6f3",
+            "originalColor": true,
+            "keepDefaultTitle": false,
+            "showDescription": false
+          },
+          {
+            "category": "gid://shopify/Collection/392399618282",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat8.png?v=1671105276",
+            "colors": [
+              "#333333"
+            ],
+            "backgroundColor": "ffece6f3",
+            "originalColor": true,
+            "keepDefaultTitle": true,
+            "showDescription": false,
+            "title": "MAISON"
+          },
+          {
+            "category": "gid://shopify/Collection/392399978730",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/cat9.png?v=1671105276",
+            "colors": [
+              "#333333"
+            ],
+            "backgroundColor": "ffece6f3",
+            "originalColor": true,
+            "keepDefaultTitle": false,
+            "showDescription": false,
+            "title": "BIJOUX"
+          }
+        ],
+        "marginLeft": 10,
+        "marginRight": 10,
+        "paddingX": 0,
+        "marginBottom": 10,
+        "showShortDescription": true,
+        "marginY": 0
+      },
+      {
+        "backgroundColor": null,
+        "height": 20,
+        "useLightColor": false,
+        "layout": "spacer"
+      },
+      {
+        "isSafeArea": false,
+        "showSearch": false,
+        "usePrimaryColor": true,
+        "borderInput": false,
+        "title": "Livraison offerte en France et en Belgique dès 60€",
+        "type": "static",
+        "backgroundColor": "ffeeb3af",
+        "textColor": "ffffffff",
+        "alignment": "centerLeft",
+        "fontWeight": 500,
+        "fontSize": 35,
+        "textOpacity": 1,
+        "marginLeft": 5.0,
+        "marginRight": 5.0,
+        "marginBottom": 0,
+        "marginTop": 0,
+        "paddingLeft": 10.0,
+        "paddingRight": 10.0,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "height": 50,
+        "rotate": [],
+        "minWidth": 0.0,
+        "layout": "header_text"
+      },
+      {
+        "layout": "spacer",
+        "height": 30.0,
+        "useLightColor": false
+      },
+      {
+        "layout": "bannerImage",
+        "design": "swiper",
+        "fit": "cover",
+        "marginLeft": 0.0,
+        "items": [
+          {
+            "bannerWithProduct":false,
+            "defaultShowProduct":false,
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere-boutique-ete-2023-2.jpg?v=1687260855",
+            "showSubcategory":false,
+            "products":[],
+            "category":"gid://shopify/Collection/394601300202"
+          },
+          {
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere_box_botanique_c4329b9b-956d-4ff7-a366-aaeea71f848e.jpg?v=1684138205",
+            "product": "8050124685630",
+            "showSubcategory":false,
+            "bannerWithProduct":false,
+            "defaultShowProduct":false
+          },
+          {
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/coffretbougies.jpg?v=1671102903",
+            "product": "7890911363306",
+            "showSubcategory":false,
+            "bannerWithProduct":false,
+            "defaultShowProduct":false
+          },
+          {
+            "bannerWithProduct":false,
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere-huiles-essentielles.jpg?v=1671102561",
+            "showSubcategory":false,
+            "product":"7859006177514",
+            "products":[],
+            "defaultShowProduct":false
+          },
+          {
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere-gourdes.jpg?v=1671102808",
+            "showSubcategory":false,
+            "bannerWithProduct":false,
+            "defaultShowProduct":false,
+            "products":[],
+            "category":"gid://shopify/Collection/405725413610"
+          }
+        ],
+        "marginBottom": 0.0,
+        "marginRight": 0.0,
+        "marginTop": 0.0,
+        "radius": 4.0,
+        "padding": 0.0,
+        "enableParallax": false,
+        "parallaxImageRatio": 1.2,
+        "isHorizontal": false,
+        "isSlider": true,
+        "autoPlay": false,
+        "intervalTime": 3,
+        "showNumber": false,
+        "isBlur": false,
+        "showBackground": false,
+        "upHeight": 0.0,
+        "parallax": false
+      },
+      {
+        "layout": "spacer",
+        "height": 0.0,
+        "useLightColor": false
+      },
+      {
+        "featured": false,
+        "isProductRecommendation" : true,
+        "isSnapping": true,
+        "cardDesign": "card",
+        "hPadding": 8,
+        "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app_bannieres_etc-bacgound.jpg?v=1671103028",
+        "hideEmptyProductListRating": false,
+        "backgroundRadius": 0,
+        "spaceWidth": 35,
+        "layout": "twoColumn",
+        "imageRatio": 1,
+        "hMargin": 9,
+        "showCartIconColor": false,
+        "showCartButton": false,
+        "backgroundHeight": 288,
+        "showStockStatus": false,
+        "showHeart": true,
+        "boxShadow": {
+          "spreadRadius": 10,
+          "x": 0,
+          "y": 6,
+          "blurRadius": 14,
+          "colorOpacity": 0.1
+        },
+        "showQuantity": false,
+        "vPadding": 6,
+        "parallaxImageRatio": 1.2,
+        "enableBottomAddToCart": false,
+        "showOnlyImage": false,
+        "enableRating": true,
+        "name": "Vos Recommendations 🌿",
+        "hideTitle": false,
+        "parallax": false,
+        "vMargin": 30,
+        "hidePrice": false,
+        "columns": 0,
+        "hideStore": false,
+        "backgroundBoxFit": "contain",
+        "imageBoxfit": "fill",
+        "showCartIcon": true,
+        "onSale": false,
+        "image": "",
+        "rows": 1,
+        "showCartButtonWithQuantity": false,
+        "showCountDown": false,
+        "borderRadius": 12,
+        "cartIconRadius": 9
+      },
+      {
+        "layout": "spacer",
+        "useLightColor": false,
+        "height": 10,
+        "backgroundColor": null
+      },
+      {
+        "parallax": false,
+        "enableParallax": false,
+        "isHorizontal": false,
+        "items": [
+          {
+            "products": [],
+            "productBundle": "123",
+            "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "padding": 5,
+            "defaultShowProduct": true,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlemob_1_2023.jpg?v=1684138387"
+          },
+          {
+            "products": [],
+            "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
+            "padding": 5,
+            "productBundle": "123",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlemob_2_2023.jpg?v=1684138387",
+            "bannerWithProduct": false,
+            "showSubcategory": false,
+            "defaultShowProduct": false
+          }
+        ],
+        "design": "static",
+        "marginBottom": 0,
+        "parallaxImageRatio": 1.2,
+        "layout": "bannerImage",
+        "height": 0.3,
+        "marginTop": 10,
+        "marginRight": 10,
+        "fit": "fitHeight",
+        "marginLeft": 10
+      },
+      {
+        "layout": "bannerImage",
+        "design": "default",
+        "fit": "cover",
+        "marginLeft": 15.0,
+        "items": [
+          {
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bannergiftcard-min.jpg?v=1671103206",
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "products": [],
+            "showSubcategory": false,
+            "product": "7504509108458"
+          }
+        ],
+        "marginBottom": 0.0,
+        "marginRight": 15.0,
+        "marginTop": 0.0,
+        "radius": 4.0,
+        "padding": 0.0,
+        "enableParallax": false,
+        "parallaxImageRatio": 1.2,
+        "isHorizontal": false,
+        "isSlider": true,
+        "autoPlay": false,
+        "intervalTime": 3,
+        "showNumber": false,
+        "isBlur": false,
+        "showBackground": false,
+        "upHeight": 0.0,
+        "parallax": false
+      },
+      {
+        "useLightColor": false,
+        "height": 20,
+        "layout": "spacer",
+        "backgroundColor": null
+      },
+      {
+        "featured": false,
+        "isSnapping": true,
+        "cardDesign": "card",
+        "hPadding": 8,
+        "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app_bannieres_etc-bacgound.jpg?v=1671103028",
+        "hideEmptyProductListRating": false,
+        "backgroundRadius": 0,
+        "spaceWidth": 35,
+        "layout": "twoColumn",
+        "imageRatio": 1,
+        "hMargin": 9,
+        "showCartIconColor": false,
+        "showCartButton": false,
+        "backgroundHeight": 288,
+        "showStockStatus": false,
+        "showHeart": true,
+        "boxShadow": {
+          "spreadRadius": 10,
+          "x": 0,
+          "y": 6,
+          "blurRadius": 14,
+          "colorOpacity": 0.1
+        },
+        "showQuantity": false,
+        "vPadding": 6,
+        "parallaxImageRatio": 1.2,
+        "enableBottomAddToCart": false,
+        "showOnlyImage": false,
+        "enableRating": true,
+        "name": "Nouveautés 🌿",
+        "hideTitle": false,
+        "parallax": false,
+        "vMargin": 30,
+        "hidePrice": false,
+        "columns": 0,
+        "hideStore": false,
+        "backgroundBoxFit": "contain",
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MjE1NjQxNDE4Ng==",
+        "imageBoxfit": "fill",
+        "showCartIcon": true,
+        "onSale": false,
+        "image": "",
+        "rows": 1,
+        "showCartButtonWithQuantity": false,
+        "showCountDown": false,
+        "borderRadius": 12,
+        "cartIconRadius": 9
+      },
+      {
+        "useLightColor": false,
+        "height": 20,
+        "layout": "spacer",
+        "backgroundColor": null
+      },
+      {
+        "radius": 20,
+        "layout": "bannerImage",
+        "upHeight": 0,
+        "design": "swiper",
+        "isSlider": true,
+        "marginRight": null,
+        "padding": 0,
+        "enableParallax": false,
+        "autoPlay": false,
+        "items": [
+          {
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Marie-App-juin.png?v=1687167944",
+            "defaultShowProduct":false,
+            "showSubcategory":false,
+            "products":[],
+            "bannerWithProduct":false,
+            "product":"7592587428074"
+          },
+          {
+            "products":[],
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Marine-App-juin.png?v=1687167945",
+            "bannerWithProduct":false,
+            "showSubcategory":false,
+            "defaultShowProduct":false,
+            "product":"7490673836266"
+          },
+          {
+            "showSubcategory":false,
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Coralie-App-juin.png?v=1687167944",
+            "bannerWithProduct":false,
+            "defaultShowProduct":false,
+            "products":[],
+            "product":"7892943601898"
+          },
+          {
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Constance-App-juin.png?v=1687167944",
+            "bannerWithProduct":false,
+            "products":[],
+            "defaultShowProduct":false,
+            "showSubcategory":false,
+            "product":"7740447949034"
+          },
+          {
+            "bannerWithProduct":false,
+            "products":[],
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Lea-App-juin.png?v=1687167945",
+            "defaultShowProduct":false,
+            "showSubcategory":false,
+            "product":"7490634744042"
+          },
+          {
+            "products":[],
+            "bannerWithProduct":false,
+            "defaultShowProduct":false,
+            "showSubcategory":false,
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Ilona-App-juin.png?v=1687167945",
+            "product":"7574655631594"
+          },
+          {
+            "showSubcategory":false,
+            "defaultShowProduct":false,
+            "bannerWithProduct":false,
+            "products":[],
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Berenice-App-juin.png?v=1687167944",
+            "product":"7508887109866"
+          }
+        ],
+        "isHorizontal": false,
+        "parallax": false,
+        "fit": "fitHeight",
+        "showBackground": false,
+        "marginLeft": null,
+        "showNumber": false,
+        "parallaxImageRatio": 1.2,
+        "marginBottom": 0,
+        "marginTop": 0,
+        "intervalTime": 3,
+        "isBlur": false
+      },
+      {
+        "layout": "spacer",
+        "backgroundColor": null,
+        "height": 20,
+        "useLightColor": false
+      },
+      {
+        "layout": "bannerImage",
+        "design": "static",
+        "fit": "cover",
+        "marginLeft": 15.0,
+        "items": [
+          {
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere_box_mai_2023_fac6931d-0f85-4197-a508-411453facb89.jpg?v=1684138204",
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "products": [],
+            "defaultShowProduct": false,
+            "category": "gid://shopify/Collection/392679358698",
+            "padding": 15.0
+          }
+        ],
+        "marginBottom": 20.0,
+        "height": 0.23,
+        "marginRight": 0.0,
+        "marginTop": 0.0,
+        "enableParallax": false,
+        "parallaxImageRatio": 1.2,
+        "isHorizontal": false,
+        "parallax": false
+      },
+      {
+        "enableBottomAddToCart": false,
+        "showQuantity": false,
+        "hidePrice": false,
+        "backgroundBoxFit": "contain",
+        "parallaxImageRatio": 1.2,
+        "parallax": false,
+        "hideTitle": false,
+        "imageRatio": 1,
+        "onSale": false,
+        "backgroundHeight": 288,
+        "showHeart": true,
+        "boxShadow": {
+          "blurRadius": 14,
+          "spreadRadius": 10,
+          "y": 6,
+          "x": 0,
+          "colorOpacity": 0.1
+        },
+        "layout": "twoColumn",
+        "showOnlyImage": false,
+        "showCartIcon": true,
+        "image": "",
+        "isSnapping": true,
+        "enableRating": true,
+        "hideEmptyProductListRating": false,
+        "backgroundRadius": 0,
+        "columns": 0,
+        "showCartIconColor": false,
+        "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app_bannieres_etc-bacgound.jpg?v=1671103028",
+        "hMargin": 9,
+        "vMargin": 30,
+        "imageBoxfit": "fill",
+        "spaceWidth": 35,
+        "hPadding": 8,
+        "vPadding": 6,
+        "cardDesign": "card",
+        "showStockStatus": false,
+        "borderRadius": 12,
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyMzUwNzY1NjkzOA==",
+        "cartIconRadius": 9,
+        "hideStore": false,
+        "showCartButtonWithQuantity": false,
+        "showCartButton": false,
+        "featured": false,
+        "showCountDown": false,
+        "name": "Meilleures ventes 🌿",
+        "rows": 1
+      },
+      {
+        "layout": "bannerImage",
+        "design": "tinder",
+        "fit": "cover",
+        "items": [
+          {
+            "showSubcategory": false,
+            "productLength": 1,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_3_4x_d487460e-4ae0-4491-88fa-0e28f44d553f.png?v=1673949247",
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "products": [
+              ""
+            ],
+            "product": "7490669805802"
+          },
+          {
+            "product": "7490649325802",
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_2_4x_5e221342-87b2-4d6b-b148-44f39232c450.png?v=1673949247",
+            "bannerWithProduct": false,
+            "productLength": 1,
+            "defaultShowProduct": false,
+            "products": [
+              ""
+            ],
+            "showSubcategory": false
+          },
+          {
+            "defaultShowProduct": false,
+            "bannerWithProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_4x_2ca86f82-51f6-4ba3-84a4-9c4833e7d646.png?v=1673949251",
+            "showSubcategory": false,
+            "product": "7490669838570",
+            "products": []
+          },
+          {
+            "bannerWithProduct": false,
+            "showSubcategory": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_3_1_4x_77802db0-0ce6-42bb-959a-06a1c0d89dcf.png?v=1673949247",
+            "products": [],
+            "product": "7490669773034",
+            "defaultShowProduct": false
+          },
+          {
+            "bannerWithProduct": false,
+            "showSubcategory": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_4x_a676b00b-34e1-49ca-b6b4-bb58566b1dab.png?v=1673949247",
+            "products": [],
+            "product": "7890911363306",
+            "defaultShowProduct": false
+          }
+        ],
+        "marginBottom": 10.0,
+        "height": 0.25,
+        "marginTop": 0.0,
+        "radius": 6.0,
+        "padding": 0.0,
+        "enableParallax": false,
+        "parallaxImageRatio": 1.2,
+        "isHorizontal": false,
+        "isSlider": true,
+        "autoPlay": true,
+        "intervalTime": 7,
+        "showNumber": false,
+        "isBlur": false,
+        "showBackground": false,
+        "upHeight": 0.0,
+        "parallax": false
+      },
+      {
+        "items": [
+          {
+            "width": 20,
+            "borderRadius": 2,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/insta.png?v=1671104969",
+            "height": 20,
+            "navigator": {
+              "url_launch": "https://www.instagram.com/leavesandclouds/"
+            },
+            "marginRight": 10,
+            "textFontSize": 14,
+            "useMaxWidth": false,
+            "marginLeft": 0
+          },
+          {
+            "borderRadius": 2,
+            "marginLeft": 0,
+            "navigator": {
+              "url_launch": "https://www.facebook.com/leavesandclouds/"
+            },
+            "width": 20,
+            "marginRight": 10,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/facebook.png?v=1671104968",
+            "textFontSize": 14,
+            "height": 20,
+            "useMaxWidth": false
+          },
+          {
+            "textFontSize": 14,
+            "useMaxWidth": false,
+            "borderRadius": 2,
+            "width": 20,
+            "marginRight": 10,
+            "navigator": {
+              "url_launch": "https://www.youtube.com/channel/UCYirBVpOU1n8BIdaN50C3Tw"
+            },
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/youtube2.png?v=1671104969",
+            "height": 20,
+            "marginLeft": 0
+          },
+          {
+            "borderRadius": 2,
+            "width": 20,
+            "useMaxWidth": false,
+            "marginRight": 10,
+            "textFontSize": 14,
+            "height": 20,
+            "marginLeft": 0,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/twitter2.png?v=1671104969",
+            "navigator": {
+              "url_launch": "https://twitter.com/leavesandclouds"
+            }
+          },
+          {
+            "borderRadius": 2,
+            "marginLeft": 0,
+            "navigator": {
+              "url_launch": "https://www.pinterest.fr/leavesandclouds/"
+            },
+            "width": 20,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/pinterest.png?v=1671104968",
+            "useMaxWidth": false,
+            "textFontSize": 14,
+            "height": 20,
+            "marginRight": 10
+          },
+          {
+            "marginLeft": 0,
+            "borderRadius": 2,
+            "width": 20,
+            "textFontSize": 14,
+            "height": 20,
+            "navigator": {
+              "url_launch": "https://www.tiktok.com/@leavesandcloud"
+            },
+            "marginRight": 10,
+            "useMaxWidth": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/tiktok2.png?v=1671105070"
+          },
+          {
+            "useMaxWidth": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/linkedin2.png?v=1671105070",
+            "marginRight": 5,
+            "marginLeft": 0,
+            "navigator": {
+              "url_launch": "https://www.linkedin.com/company/leaves-clouds"
+            },
+            "borderRadius": 2,
+            "textFontSize": 14,
+            "height": 20,
+            "width": 20
+          }
+        ],
+        "marginBottom": 10,
+        "marginTop": 10,
+        "alignment": "topCenter",
+        "layout": "button"
+      },
+      {
+        "useLightColor": false,
+        "backgroundColor": null,
+        "layout": "spacer",
+        "height": 20
+      }
+    ],
+    "Setting": {
+      "FontHeader": "Poppins",
+      "FontFamily": "Roboto",
+      "ProductDetail": "simpleType",
+      "MainColor": null,
+      "ProductListLayout": "list",
+      "TabBarConfig": {
+        "marginBottom": 0,
+        "indicatorStyle": "dot",
+        "colorActiveIcon": "ffe0937b",
+        "enable": true,
+        "alwaysShowTabBar": true,
+        "paddingBottom": 0,
+        "paddingLeft": 0,
+        "showFloating": false,
+        "showFloatingClip": true,
+        "marginLeft": 0,
+        "TabBarFloating": {
+          "color": null,
+          "height": null,
+          "radius": null,
+          "floatingType": "rectangle",
+          "width": null,
+          "location": null,
+          "elevation": null,
+          "position": 0
+        },
+        "color": null,
+        "colorIcon": "ebbdcebe",
+        "colorCart": null,
+        "enableOnTop": false,
+        "iconSize": 26,
+        "radiusTopRight": 0,
+        "paddingRight": 0,
+        "marginTop": 0,
+        "TabBarIndicator": {
+          "strokeWidth": null,
+          "radius": null,
+          "paintingStyle": "fill",
+          "topRightRadius": null,
+          "color": null,
+          "height": null,
+          "horizontalPadding": 0,
+          "topLeftRadius": null,
+          "distanceFromCenter": null,
+          "bottomLeftRadius": null,
+          "bottomRightRadius": null,
+          "tabPosition": "bottom",
+          "verticalPadding": null
+        },
+        "paddingTop": 0,
+        "marginRight": 0,
+        "radiusBottomRight": 0,
+        "radiusTopLeft": 0,
+        "isSafeArea": true,
+        "radiusBottomLeft": 0
+      },
+      "StickyHeader": false,
+      "ShowChat": true
+    },
+    "TabBar": [
+      {
+        "layout": "home",
+        "pos": 100,
+        "icon": "home",
+        "fontFamily": "CupertinoIcons",
+        "key": "fzdri7s9q8"
+      },
+      {
+        "layout": "search",
+        "icon": "search",
+        "fontFamily": "CupertinoIcons",
+        "pos": 200,
+        "key": "c3sp79te3k"
+      },
+      {
+        "icon": "shopping_cart",
+        "pos": 300,
+        "fontFamily": "CupertinoIcons",
+        "layout": "cart",
+        "key": "0w4iizhm9i"
+      },
+      {
+        "fontFamily": "CupertinoIcons",
+        "pos": 400,
+        "icon": "heart",
+        "layout": "wishlist",
+        "key": "78tae2ltlk"
+      },
+      {
+        "settings": [
+          "wishlist",
+          "notifications",
+          "darkTheme",
+          "order",
+          "rating",
+          "web-86orcb0xvw",
+          "web-kt9fgp9bsk",
+          "web-hw6atkl6f2",
+          "web-jy275wk99h"
+        ],
+        "icon": "person",
+        "layout": "profile",
+        "pos": 500,
+        "key": "55mej5weu2",
+        "background": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app_bannieres_etc-bacgound.jpg?v=1671103028",
+        "fontFamily": "CupertinoIcons",
+        "subGeneralSetting": {
+          "web-hw6atkl6f2": {
+            "iconFontFamily": "CupertinoIcons",
+            "enableForward": false,
+            "script": "",
+            "enableClose": true,
+            "webViewMode": true,
+            "enableBackward": false,
+            "requiredLogin": false,
+            "webUrl": "https://leavesandclouds.fr/policies/refund-policy",
+            "icon": "gobackward",
+            "title": "Retours"
+          },
+          "web-86orcb0xvw": {
+            "webUrl": "https://leavesandclouds.fr/pages/faq",
+            "webViewMode": true,
+            "requiredLogin": false,
+            "enableForward": false,
+            "enableBackward": false,
+            "enableClose": true,
+            "script": "",
+            "icon": "question_circle",
+            "iconFontFamily": "CupertinoIcons",
+            "title": "FAQ"
+          },
+          "web-kt9fgp9bsk": {
+            "webUrl": "https://leavesandclouds.fr/policies/terms-of-sale",
+            "webViewMode": true,
+            "requiredLogin": false,
+            "enableForward": false,
+            "enableBackward": false,
+            "enableClose": false,
+            "script": "",
+            "icon": "doc_text",
+            "iconFontFamily": "CupertinoIcons",
+            "title": "CGV"
+          },
+          "web-jy275wk99h": {
+            "webUrl": "https://leavesandclouds.fr/pages/a-propos",
+            "webViewMode": true,
+            "requiredLogin": false,
+            "enableForward": false,
+            "enableBackward": false,
+            "enableClose": false,
+            "script": "",
+            "icon": "info",
+            "iconFontFamily": "CupertinoIcons",
+            "title": "À propos de nous"
+          }
+        }
+      },
+      {
+        "layout": "category",
+        "icon": "collections",
+        "fontFamily": "CupertinoIcons",
+        "pos": 600,
+        "show": false,
+        "categoryLayout": "card",
+        "visible": false,
+        "remapCategories": [
+          {
+            "category": "gid://shopify/Collection/392156414186"
+          },
+          {
+            "category": "gid://shopify/Collection/392394932458"
+          },
+          {
+            "category": "gid://shopify/Collection/392395358442",
+            "parent": "gid://shopify/Collection/392394932458"
+          },
+          {
+            "parent": "gid://shopify/Collection/392394932458",
+            "category": "gid://shopify/Collection/392395948266"
+          },
+          {
+            "category": "gid://shopify/Collection/392396505322",
+            "parent": "gid://shopify/Collection/392394932458"
+          },
+          {
+            "parent": "gid://shopify/Collection/392394932458",
+            "category": "gid://shopify/Collection/392397226218"
+          },
+          {
+            "parent": "gid://shopify/Collection/392394932458",
+            "category": "gid://shopify/Collection/392396931306"
+          },
+          {
+            "category": "gid://shopify/Collection/392397553898",
+            "parent": "gid://shopify/Collection/392394932458"
+          },
+          {
+            "category": "gid://shopify/Collection/392397717738",
+            "parent": "gid://shopify/Collection/392394932458"
+          },
+          {
+            "category": "gid://shopify/Collection/392765440234"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395522282",
+            "name": "Démaquillants"
+          },
+          {
+            "parent": "gid://shopify/Collection/392765440234",
+            "category": "gid://shopify/Collection/392765571306",
+            "name": "YEUX"
+          },
+          {
+            "parent": "gid://shopify/Collection/392765440234",
+            "category": "gid://shopify/Collection/392765604074",
+            "name": "TEINT"
+          },
+          {
+            "parent": "gid://shopify/Collection/392765440234",
+            "category": "gid://shopify/Collection/392765636842",
+            "name": "LÈVRES"
+          },
+          {
+            "parent": "gid://shopify/Collection/392765440234",
+            "category": "gid://shopify/Collection/393293693162",
+            "name": "ACCESSOIRES"
+          },
+          {
+            "category": "gid://shopify/Collection/392397750506"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397750506",
+            "category": "gid://shopify/Collection/392398176490"
+          },
+          {
+            "category": "gid://shopify/Collection/394201563370",
+            "parent": "gid://shopify/Collection/392397750506"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397750506",
+            "category": "gid://shopify/Collection/392397947114",
+            "name": "CBD"
+          },
+          {
+            "category": "gid://shopify/Collection/393346580714",
+            "parent": "gid://shopify/Collection/392397750506",
+            "name": "BAIN"
+          },
+          {
+            "category": "gid://shopify/Collection/392398143722",
+            "parent": "gid://shopify/Collection/392397750506"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397750506",
+            "category": "gid://shopify/Collection/392397979882",
+            "name": "GUMMIES"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397750506",
+            "category": "gid://shopify/Collection/392398012650"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397750506",
+            "category": "gid://shopify/Collection/392397783274",
+            "name": "COMPLÉMENTS ALIMENTAIRES"
+          },
+          {
+            "category": "gid://shopify/Collection/392398209258"
+          },
+          {
+            "category": "gid://shopify/Collection/392399913194",
+            "parent": "gid://shopify/Collection/392399618282"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398209258",
+            "category": "gid://shopify/Collection/392399945962"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398209258",
+            "category": "gid://shopify/Collection/392398373098",
+            "name": "BEAUTÉ"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398209258",
+            "category": "gid://shopify/Collection/392398274794",
+            "name": "CUISINE"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398209258",
+            "category": "gid://shopify/Collection/392398242026",
+            "name": "MAISON"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398209258",
+            "category": "gid://shopify/Collection/392398307562",
+            "name": "ENTRETIEN"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398274794",
+            "category": "gid://shopify/Collection/405724954858"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398274794",
+            "category": "gid://shopify/Collection/405865365738"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398274794",
+            "category": "gid://shopify/Collection/398260568298",
+            "name": "Éponges lavables et réutilisables"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398274794",
+            "category": "gid://shopify/Collection/405725184234"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398274794",
+            "category": "gid://shopify/Collection/398260044010"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398274794",
+            "category": "gid://shopify/Collection/405725413610"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398274794",
+            "category": "gid://shopify/Collection/405725708522"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398373098",
+            "category": "gid://shopify/Collection/392398405866",
+            "name": "Soins solides"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398373098",
+            "category": "gid://shopify/Collection/392398438634",
+            "name": "Hygiène"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398373098",
+            "category": "gid://shopify/Collection/392398471402",
+            "name": "Accessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398242026",
+            "category": "gid://shopify/Collection/392398340330",
+            "name": "Lifestyle"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398307562",
+            "category": "gid://shopify/Collection/405725970666"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398307562",
+            "category": "gid://shopify/Collection/405726036202"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398307562",
+            "category": "gid://shopify/Collection/405726068970",
+            "name": "Accessoires"
+          },
+          {
+            "category": "gid://shopify/Collection/392398504170"
+          },
+          {
+            "category": "gid://shopify/Collection/392398700778",
+            "parent": "gid://shopify/Collection/392398504170"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398504170",
+            "category": "gid://shopify/Collection/392398536938"
+          },
+          {
+            "category": "gid://shopify/Collection/392398733546",
+            "parent": "gid://shopify/Collection/392398504170"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398504170",
+            "category": "gid://shopify/Collection/392398668010"
+          },
+          {
+            "category": "gid://shopify/Collection/392398766314"
+          },
+          {
+            "category": "gid://shopify/Collection/392398995690",
+            "parent": "gid://shopify/Collection/392398766314"
+          },
+          {
+            "category": "gid://shopify/Collection/392398864618",
+            "parent": "gid://shopify/Collection/392398766314"
+          },
+          {
+            "category": "gid://shopify/Collection/392398799082",
+            "parent": "gid://shopify/Collection/392398766314"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398766314",
+            "category": "gid://shopify/Collection/392398930154"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398766314",
+            "category": "gid://shopify/Collection/392398897386"
+          },
+          {
+            "category": "gid://shopify/Collection/392399061226"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399061226",
+            "category": "gid://shopify/Collection/392399421674"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399061226",
+            "category": "gid://shopify/Collection/392399454442"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399061226",
+            "category": "gid://shopify/Collection/392399519978"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399061226",
+            "category": "gid://shopify/Collection/392399552746"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399061226",
+            "category": "gid://shopify/Collection/392399585514",
+            "name": "ACCESSOIRES"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399061226",
+            "category": "gid://shopify/Collection/392399257834"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399061226",
+            "category": "gid://shopify/Collection/392399126762"
+          },
+          {
+            "category": "gid://shopify/Collection/392399618282"
+          },
+          {
+            "category": "gid://shopify/Collection/392399880426",
+            "parent": "gid://shopify/Collection/392399618282"
+          },
+          {
+            "category": "gid://shopify/Collection/392399651050",
+            "parent": "gid://shopify/Collection/392399618282",
+            "name": "DÉCORATION"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399618282",
+            "category": "gid://shopify/Collection/392399782122"
+          },
+          {
+            "category": "gid://shopify/Collection/392399978730"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398536938",
+            "category": "gid://shopify/Collection/392726282474",
+            "name": "Cuisine"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398536938",
+            "category": "gid://shopify/Collection/392398635242",
+            "name": "Bien-être"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398536938",
+            "category": "gid://shopify/Collection/392398569706",
+            "name": "Spirituels"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398536938",
+            "category": "gid://shopify/Collection/392398602474",
+            "name": "Dév. personnel"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398536938",
+            "category": "gid://shopify/Collection/399937143018"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399651050",
+            "category": "gid://shopify/Collection/392399716586"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399651050",
+            "category": "gid://shopify/Collection/392399683818"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399651050",
+            "category": "gid://shopify/Collection/392399749354",
+            "name": "Accessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399782122",
+            "category": "gid://shopify/Collection/392399814890"
+          },
+          {
+            "parent": "gid://shopify/Collection/392399782122",
+            "category": "gid://shopify/Collection/392399847658",
+            "name": "Accessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398373098",
+            "category": "gid://shopify/Collection/392398405866",
+            "name": "Soins solides"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398373098",
+            "category": "gid://shopify/Collection/392398438634",
+            "name": "Hygiène"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398373098",
+            "category": "gid://shopify/Collection/392398471402",
+            "name": "Accessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398307562",
+            "category": "gid://shopify/Collection/405725970666"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398307562",
+            "category": "gid://shopify/Collection/405726036202"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398307562",
+            "category": "gid://shopify/Collection/405726068970"
+          },
+          {
+            "parent": "gid://shopify/Collection/392398242026",
+            "category": "gid://shopify/Collection/392398340330",
+            "name": "Lifestyle"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395555050",
+            "name": "Nettoyants"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395587818",
+            "name": "Gommages & exfoliants"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395620586",
+            "name": "Sérums & fluides"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395653354",
+            "name": "Crèmes"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395686122",
+            "name": "Masques"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395718890",
+            "name": "Huiles"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395751658",
+            "name": "Brumes & toniques"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395784426",
+            "name": "Savons & baumes"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395817194",
+            "name": "Lèvres"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395849962",
+            "name": "Yeux"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395882730",
+            "name": "Compléments"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395358442",
+            "category": "gid://shopify/Collection/392395915498",
+            "name": "Accessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392395981034",
+            "name": "Crèmes & mousses"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396013802",
+            "name": "Savons & gels douche"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396308714",
+            "name": "Déodorants"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396144874",
+            "name": "Gommages"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396177642",
+            "name": "Huiles & élixirs"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396275946",
+            "name": "Parfums & brumes"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396210410",
+            "name": "Gels & laits"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396374250",
+            "name": "Rolls-on"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396439786",
+            "name": "Intimité"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396079338",
+            "name": "Baumes & beurres"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/393346646250",
+            "name": "Bain"
+          },
+          {
+            "parent": "gid://shopify/Collection/392395948266",
+            "category": "gid://shopify/Collection/392396472554",
+            "name": "Accessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396505322",
+            "category": "gid://shopify/Collection/392396538090",
+            "name": "Shampoings"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396505322",
+            "category": "gid://shopify/Collection/392396636394",
+            "name": "Masques"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396505322",
+            "category": "gid://shopify/Collection/392396734698",
+            "name": "Huiles & sérums"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396505322",
+            "category": "gid://shopify/Collection/392396603626",
+            "name": "Après-shampoings"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396505322",
+            "category": "gid://shopify/Collection/392396800234",
+            "name": "Brumes & elixirs"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396505322",
+            "category": "gid://shopify/Collection/392396833002",
+            "name": "Gelées & laits"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396505322",
+            "category": "gid://shopify/Collection/392396865770",
+            "name": "Compléments"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396505322",
+            "category": "gid://shopify/Collection/392396898538",
+            "name": "Accessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397226218",
+            "category": "gid://shopify/Collection/392397488362",
+            "name": "Acessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397226218",
+            "category": "gid://shopify/Collection/392397324522",
+            "name": "Crèmes"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397226218",
+            "category": "gid://shopify/Collection/392397357290",
+            "name": "Huiles"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397226218",
+            "category": "gid://shopify/Collection/392397422826",
+            "name": "Manucure"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397226218",
+            "category": "gid://shopify/Collection/392397390058",
+            "name": "Savons & baumes"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397226218",
+            "category": "gid://shopify/Collection/392397455594",
+            "name": "Roll-on"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396931306",
+            "category": "gid://shopify/Collection/392396996842",
+            "name": "Savons & gels douche"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396931306",
+            "category": "gid://shopify/Collection/393345597674",
+            "name": "Déodorants"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396931306",
+            "category": "gid://shopify/Collection/392397029610",
+            "name": "Intimité"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396931306",
+            "category": "gid://shopify/Collection/392397095146",
+            "name": "Rasage"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396931306",
+            "category": "gid://shopify/Collection/392397127914",
+            "name": "Dentaire"
+          },
+          {
+            "parent": "gid://shopify/Collection/392396931306",
+            "category": "gid://shopify/Collection/392397160682",
+            "name": "Accessoires"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397553898",
+            "category": "gid://shopify/Collection/392397619434"
+          },
+          {
+            "parent": "gid://shopify/Collection/392397553898",
+            "category": "gid://shopify/Collection/392397652202"
+          }
+        ],
+        "parallax": false,
+        "parallaxImageRatio": 1.2,
+        "key": "0wpp96a4ms"
+      }
+    ],
+    "Drawer": {
+      "key": "ghbzsbbf34",
+      "safeArea": false,
+      "subDrawerItem": {
+        "web-wv0hzetqjc": {
+          "webUrl": "https://leavesandclouds.fr/pages/donation-octopus",
+          "webViewMode": true,
+          "requiredLogin": false,
+          "enableForward": false,
+          "enableBackward": false,
+          "enableClose": true,
+          "script": "",
+          "icon": "checkmark_seal",
+          "iconFontFamily": "CupertinoIcons",
+          "title": "Donation"
+        },
+        "bundle-kqauv9j050": {
+          "webUrl": "https://leavesandclouds.fr/pages/coffret-personnalisation",
+          "productBundle": "123",
+          "webViewMode": true,
+          "requiredLogin": false,
+          "enableForward": false,
+          "enableBackward": false,
+          "enableClose": true,
+          "icon": "star",
+          "iconFontFamily": "CupertinoIcons",
+          "title": "Coffret sur-mesure"
+        },
+        "category-mfrhvl5q6s": {
+          "category": "gid://shopify/Collection/392679358698",
+          "icon": "brightness",
+          "iconFontFamily": "CupertinoIcons",
+          "title": "Box"
+        },
+        "category-promotion1": {
+          "category": "gid://shopify/Collection/392679391466",
+          "icon": "bolt",
+          "iconFontFamily": "CupertinoIcons",
+          "title": "Promotions"
+        },
+        "brand-4234234": {
+          "category": "gid://shopify/Collection/392679391466",
+          "icon": "cloud",
+          "iconFontFamily": "CupertinoIcons",
+          "title": "Marques"
+        }
+      },
+      "filter": 0,
+      "enable": true,
+      "logoConfig": {
+        "width": 110,
+        "height": 50,
+        "marginLeft": 5,
+        "marginRight": 0,
+        "marginTop": 60,
+        "marginBottom": 10,
+        "boxFit": "contain"
+      },
+      "logo": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logomenu.png?v=1671105143",
+      "logoDark" : "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Logo_LAC_blanc.png?v=1690377239",
+      "items": [
+        {
+          "type": "home",
+          "show": true
+        },
+        {
+          "type": "categories",
+          "show": true
+        },
+        {
+          "type": "bundle-kqauv9j050",
+          "show": true
+        },
+        {
+          "type": "category-mfrhvl5q6s",
+          "show": true
+        },
+        {
+          "type": "category-promotion1",
+          "show": true
+        },
+        {
+          "type": "brand-4234234",
+          "show": true
+        },
+        {
+          "type": "web-wv0hzetqjc",
+          "show": true
+        },
+        {
+          "type": "blog",
+          "show": true
+        },
+        {
+          "type": "cart",
+          "show": false
+        },
+        {
+          "type": "profile",
+          "show": true
+        },
+        {
+          "type": "login",
+          "show": true
+        },
+        {
+          "type": "category",
+          "show": false
+        },
+        {
+          "type": "web",
+          "show": false
+        }
+      ],
+      "iconColor": "FFAAB9AB"
+    },
+    "AppBar": {
+      "showOnScreens": [],
+      "snap": true,
+      "alwaysShowAppBar": false,
+      "elevation": 0,
+      "items": [],
+      "floating": false,
+      "pinned": false,
+      "enable": false
+    },
+    "searchSuggestion": [
+      "Voici quelques suggestions :",
+      "BOX BOTANIQUE",
+      "GUA SHA QUARTZ BLANC",
+      "BOUGIE BÉLIZE",
+      "TOTEBAG MYSTIQUE",
+      "HUILE ESSENTIELLE TEA TREE L&C"
+    ],
+    "productBundles": [
+      {
+        "id": "123",
+        "title": "COFFRET SUR-MESURE",
+        "groupName": "Coffret-sur-mesure",
+        "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
+        "description": "Créez votre coffret personnalisé en choisissant notre option trousse en velours côtelé noire (+ 4 produits format voyage) à 40€ ou bien notre option banane en velours côtelé noire (+ 4 produits format voyage) à 55€. Tous les produits font moins de 100 ml et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir. ==> Mise à jour : les bananes sauges et noires sont en rupture de stock !",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/IMG_5239-carre_1000x.jpg?v=1682578240",
+        "backgroundImage": null,
+        "blocks": [
+          {
+            "title": "Sélectionnez l’offre \nTrousse ou Banane",
+            "maxCanSelect": 1,
+            "productIds": [
+              "7674094616810"
+            ],
+            "collectionId": null
+          },
+          {
+            "title": "Sélectionnez quatre produits",
+            "maxCanSelect": 4,
+            "collectionId": "401065705706"
+          }
+        ]
+      },
+      {
+        "id": "456",
+        "title": "PRÉ-COMMANDE",
+        "groupName": "Agenda",
+        "url": "https://leavesandclouds.fr/pages/agenda-2023-2024",
+        "description": "Du 28 avril au 1er juin, pré-commandez votre agenda Leaves & Clouds 2023-2034 à un tarif préférentiel. Plusieurs produits dérivés de la collection Herbier sont également en vente en exclusivité ! \n\n Livraison courant août 2023.",
+        "bannerConfig": {
+          "layout": "bannerImage",
+          "design": "swiper",
+          "fit": "cover",
+          "marginLeft": 0.0,
+          "items": [
+            {
+              "bannerWithProduct": false,
+              "defaultShowProduct": false,
+              "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/appbanner1.png?v=1682662820",
+              "showSubcategory": false,
+              "products": []
+            },
+            {
+              "bannerWithProduct": false,
+              "defaultShowProduct": false,
+              "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/appbanner3.png?v=1682662820",
+              "showSubcategory": false,
+              "products": []
+            },
+            {
+              "bannerWithProduct": false,
+              "defaultShowProduct": false,
+              "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/appbanner4.png?v=1682662820",
+              "showSubcategory": false,
+              "products": []
+            },
+            {
+              "bannerWithProduct": false,
+              "defaultShowProduct": false,
+              "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/appbanner5.png?v=1682662820",
+              "showSubcategory": false,
+              "products": []
+            },
+            {
+              "bannerWithProduct": false,
+              "defaultShowProduct": false,
+              "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/appbanner2.png?v=1682662820",
+              "showSubcategory": false,
+              "products": []
+            }
+          ],
+          "marginBottom": 10.0,
+          "marginRight": 0.0,
+          "marginTop": 12.0,
+          "radius": 4.0,
+          "padding": 0.0,
+          "enableParallax": false,
+          "parallaxImageRatio": 1.2,
+          "isHorizontal": false,
+          "isSlider": true,
+          "autoPlay": false,
+          "intervalTime": 3,
+          "showNumber": false,
+          "isBlur": false,
+          "showBackground": false,
+          "upHeight": 0.0,
+          "parallax": false
+        },
+        "backgroundImage": null,
+        "blocks": [
+          {
+            "title": "Sélectionnez l'offre 1 agenda ou 2 agendas",
+            "maxCanSelect": 1,
+            "productIds": [
+              "8099991454014",
+              "8153653838142"
+            ],
+            "collectionId": null,
+            "description": "Si vous souhaitez plus d'informations sur les différents produits, utilisez l'icône (i) disponible sur chaque image. \n\n À noter que même si votre commande contient d'autres articles (hors pré-commande), vous ne recevrez qu'un seul colis - courant août. \n\n *Les goodies ci-après ne peuvent être vendus sans agenda."
+          },
+          {
+            "title": "Ajoutez des produits supplémentaires (optionnel)",
+            "mustSelectMax": false,
+            "maxCanSelect": 20,
+            "collectionId": "435759972670"
+          }
+        ]
+      }
+    ],
+    "categoriesSuggestions": [
+      "gid://shopify/Collection/392156414186",
+      "gid://shopify/Collection/394601300202",
+      "gid://shopify/Collection/392394932458",
+      "gid://shopify/Collection/392398209258"
+    ]
+  }
