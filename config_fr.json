@@ -477,60 +477,60 @@
         "autoPlay": false,
         "items": [
           {
-            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Marie-App-juin.png?v=1687167944",
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Marie-fav-aout.png?v=1693558054",
             "defaultShowProduct":false,
             "showSubcategory":false,
             "products":[],
             "bannerWithProduct":false,
-            "product":"7592587428074"
+            "product":"7625132212458"
           },
           {
             "products":[],
-            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Marine-App-juin.png?v=1687167945",
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Coralie-fav-aout.png?v=1693558054",
             "bannerWithProduct":false,
             "showSubcategory":false,
             "defaultShowProduct":false,
-            "product":"7490673836266"
+            "product":"7490682552554"
           },
           {
             "showSubcategory":false,
-            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Coralie-App-juin.png?v=1687167944",
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Marine-fav-aout.png?v=1693558054",
             "bannerWithProduct":false,
             "defaultShowProduct":false,
             "products":[],
-            "product":"7892943601898"
+            "product":"7490675704042"
           },
           {
-            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Constance-App-juin.png?v=1687167944",
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Lea-fav-aout.png?v=1693558054",
             "bannerWithProduct":false,
             "products":[],
             "defaultShowProduct":false,
             "showSubcategory":false,
-            "product":"7740447949034"
+            "product":"7740435333354"
           },
           {
             "bannerWithProduct":false,
             "products":[],
-            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Lea-App-juin.png?v=1687167945",
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Ilona-fav-aout.png?v=1693558054",
             "defaultShowProduct":false,
             "showSubcategory":false,
-            "product":"7490634744042"
+            "product":"7792282140906"
           },
           {
             "products":[],
             "bannerWithProduct":false,
             "defaultShowProduct":false,
             "showSubcategory":false,
-            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Ilona-App-juin.png?v=1687167945",
-            "product":"7574655631594"
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Berenice-fav-aout.png?v=1693558054",
+            "product":"8115079938366"
           },
           {
             "showSubcategory":false,
             "defaultShowProduct":false,
             "bannerWithProduct":false,
             "products":[],
-            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Berenice-App-juin.png?v=1687167944",
-            "product":"7508887109866"
+            "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Constance-fav-aout.png?v=1693558054",
+            "product":"7800547082474"
           }
         ],
         "isHorizontal": false,
