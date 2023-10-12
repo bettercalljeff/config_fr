@@ -190,7 +190,7 @@
       "borderInput": false,
       "title": "Livraison offerte en France et en Belgique dès 60€",
       "type": "static",
-      "backgroundColor": "ffeeb3af",
+      "backgroundColor": "809c88",
       "textColor": "ffffffff",
       "alignment": "centerLeft",
       "fontWeight": 500,
@@ -286,7 +286,7 @@
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app_bannieres_etc-bacgound.jpg?v=1671103028",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -379,7 +379,7 @@
       "marginLeft": 15.0,
       "items": [
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bannergiftcard-min.jpg?v=1671103206",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/carte-cadeau-app-octobre23-1.png?v=1697132299",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [],
@@ -416,7 +416,7 @@
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app_bannieres_etc-bacgound.jpg?v=1671103028",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -605,7 +605,7 @@
       "backgroundRadius": 0,
       "columns": 0,
       "showCartIconColor": false,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app_bannieres_etc-bacgound.jpg?v=1671103028",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
       "hMargin": 9,
       "vMargin": 30,
       "imageBoxfit": "fill",
@@ -1046,6 +1046,10 @@
           "parent": "gid://shopify/Collection/392394932458"
         },
         {
+          "category": "gid://shopify/Collection/392765440234",
+          "parent": "gid://shopify/Collection/392394932458"
+        },
+        {
           "category": "gid://shopify/Collection/392765440234"
         },
         {
@@ -1228,10 +1232,6 @@
           "category": "gid://shopify/Collection/392398766314"
         },
         {
-          "category": "gid://shopify/Collection/392398995690",
-          "parent": "gid://shopify/Collection/392398766314"
-        },
-        {
           "category": "gid://shopify/Collection/392398864618",
           "parent": "gid://shopify/Collection/392398766314"
         },
@@ -1249,35 +1249,6 @@
         },
         {
           "category": "gid://shopify/Collection/392399061226"
-        },
-        {
-          "parent": "gid://shopify/Collection/392399061226",
-          "category": "gid://shopify/Collection/392399421674"
-        },
-        {
-          "parent": "gid://shopify/Collection/392399061226",
-          "category": "gid://shopify/Collection/392399454442"
-        },
-        {
-          "parent": "gid://shopify/Collection/392399061226",
-          "category": "gid://shopify/Collection/392399519978"
-        },
-        {
-          "parent": "gid://shopify/Collection/392399061226",
-          "category": "gid://shopify/Collection/392399552746"
-        },
-        {
-          "parent": "gid://shopify/Collection/392399061226",
-          "category": "gid://shopify/Collection/392399585514",
-          "name": "ACCESSOIRES"
-        },
-        {
-          "parent": "gid://shopify/Collection/392399061226",
-          "category": "gid://shopify/Collection/392399257834"
-        },
-        {
-          "parent": "gid://shopify/Collection/392399061226",
-          "category": "gid://shopify/Collection/392399126762"
         },
         {
           "category": "gid://shopify/Collection/392399618282"
