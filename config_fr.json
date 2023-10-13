@@ -223,10 +223,10 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere-boutique-ete-2023-2.jpg?v=1687260855",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Banniere-app-homepage-octobre23-1.png?v=1697136152",
           "showSubcategory":false,
           "products":[],
-          "category":"gid://shopify/Collection/394601300202"
+          "category":"gid://shopify/Collection/609871298895"
         },
         {
           "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere_box_botanique_c4329b9b-956d-4ff7-a366-aaeea71f848e.jpg?v=1684138205",
@@ -1597,6 +1597,12 @@
         "iconFontFamily": "CupertinoIcons",
         "title": "Donation"
       },
+      "category-lacskincare": {
+        "category": "gid://shopify/Collection/609871298895",
+        "icon": "cloud",
+        "iconFontFamily": "CupertinoIcons",
+        "title": "LACSKINCARE"
+      },
       "bundle-kqauv9j050": {
         "webUrl": "https://leavesandclouds.fr/pages/coffret-personnalisation",
         "productBundle": "123",
@@ -1623,7 +1629,7 @@
       },
       "brand-4234234": {
         "category": "gid://shopify/Collection/392679391466",
-        "icon": "cloud",
+        "icon": "heart",
         "iconFontFamily": "CupertinoIcons",
         "title": "Marques"
       }
@@ -1648,6 +1654,10 @@
       },
       {
         "type": "categories",
+        "show": true
+      },
+      {
+        "type": "category-lacskincare",
         "show": true
       },
       {
