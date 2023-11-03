@@ -318,7 +318,8 @@
       "hidePrice": false,
       "columns": 0,
       "hideStore": false,
-      "backgroundBoxFit": "contain",
+      "backgroundWidthMode": true,
+      "backgroundBoxFit": "cover",
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MjE1NjQxNDE4Ng==",
       "imageBoxfit": "fill",
       "showCartIcon": true,
@@ -328,7 +329,8 @@
       "showCartButtonWithQuantity": false,
       "showCountDown": false,
       "borderRadius": 12,
-      "cartIconRadius": 9
+      "cartIconRadius": 9,
+      "enableParallax": false
     },
     {
       "layout": "spacer",
@@ -448,7 +450,8 @@
       "hidePrice": false,
       "columns": 0,
       "hideStore": false,
-      "backgroundBoxFit": "contain",
+      "backgroundWidthMode": true,
+      "backgroundBoxFit": "cover",
       "imageBoxfit": "fill",
       "showCartIcon": true,
       "onSale": false,
@@ -580,7 +583,8 @@
       "enableBottomAddToCart": false,
       "showQuantity": false,
       "hidePrice": false,
-      "backgroundBoxFit": "contain",
+      "backgroundWidthMode": true,
+      "backgroundBoxFit": "cover",
       "parallaxImageRatio": 1.2,
       "parallax": false,
       "hideTitle": false,
@@ -1728,26 +1732,81 @@
   "productBundles": [
     {
       "id": "123",
-      "title": "COFFRET SUR-MESURE",
+      "title": "Coffret de Noël",
       "groupName": "Coffret-sur-mesure",
       "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
-      "description": "Créez votre coffret personnalisé en choisissant notre option trousse en velours côtelé noire (+ 4 produits format voyage) à 40€ ou bien notre option banane en velours côtelé noire (+ 4 produits format voyage) à 55€. Tous les produits font moins de 100 ml et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/IMG_5239-carre_1000x.jpg?v=1682578240",
+      "description": "Créez votre coffret personnalisé pour les fêtes en choisissant une de nos 2 options : notre pochette à volants + 4 ou 5 produits format voyage ! Le pack pochette et ses 4 produits est au prix de 34€ et le pack pochette et ses 5 produits au prix de 39€. Tous les produits de beauté font 100 ml ou moins et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
+      "backgroundColor": "#57695A",
+      "bannerConfig": {
+        "layout": "bannerImage",
+        "design": "swiper",
+        "fit": "cover",
+        "marginLeft": 0.0,
+        "viewportFraction": 0.5,
+        "scale": 0.8,
+        "items": [
+          {
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlenoel2.jpg?v=1698834768",
+            "showSubcategory": false,
+            "products": []
+          },
+          {
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlenoel1.jpg?v=1698834767",
+            "showSubcategory": false,
+            "products": []
+          },
+          {
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlenoel4.jpg?v=1698834767",
+            "showSubcategory": false,
+            "products": []
+          },
+          {
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlenoel3.jpg?v=1698834767",
+            "showSubcategory": false,
+            "products": []
+          }
+        ],
+        "marginBottom": 10.0,
+        "marginRight": 0.0,
+        "marginTop": 12.0,
+        "radius": 4.0,
+        "padding": 0.0,
+        "enableParallax": false,
+        "parallaxImageRatio": 1.2,
+        "isHorizontal": false,
+        "isSlider": true,
+        "autoPlay": false,
+        "intervalTime": 3,
+        "showNumber": false,
+        "isBlur": false,
+        "showBackground": false,
+        "upHeight": 0.0,
+        "parallax": false
+      },
       "backgroundImage": null,
+      "forceMaxCanSelectFromMainProduct":  [4,5],
       "blocks": [
         {
-          "title": "Sélectionnez l’offre \nTrousse ou Banane",
+          "title": "Sélectionnez l’offre de votre choix",
           "maxCanSelect": 1,
           "productIds": [
-            "7674094616810",
-            "7674094911722"
+            "8693153923407",
+            "8732229206351"
           ],
           "collectionId": null
         },
         {
-          "title": "Sélectionnez quatre produits",
+          "title": "Sélectionnez 4 produits",
           "maxCanSelect": 4,
-          "collectionId": "401065705706"
+          "collectionId": "435760103742"
         }
       ]
     },
