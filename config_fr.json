@@ -449,6 +449,31 @@
       "cartIconRadius": 9
     },
     {
+      "layout": "bannerImage",
+      "design": "static",
+      "fit": "contain",
+      "marginLeft": 15.0,
+      "items": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/pochette-homepage.jpg?v=1699360827",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "product": "8654970650959",
+          "defaultShowProduct": false,
+          "padding": 15.0
+        }
+      ],
+      "marginBottom": 20.0,
+      "height": 0.23,
+      "radius": 15.0,
+      "marginRight": 0.0,
+      "marginTop": 0.0,
+      "enableParallax": false,
+      "parallaxImageRatio": 1.2,
+      "isHorizontal": false,
+      "parallax": false
+    },
+    {
       "useLightColor": false,
       "height": 20,
       "layout": "spacer",
@@ -539,31 +564,6 @@
       "backgroundColor": null,
       "height": 20,
       "useLightColor": false
-    },
-    {
-      "layout": "bannerImage",
-      "design": "static",
-      "fit": "contain",
-      "marginLeft": 15.0,
-      "items": [
-        {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/pochette-homepage.jpg?v=1699360827",
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "product": "8654970650959",
-          "defaultShowProduct": false,
-          "padding": 15.0
-        }
-      ],
-      "marginBottom": 20.0,
-      "height": 0.23,
-      "radius": 15.0,
-      "marginRight": 0.0,
-      "marginTop": 0.0,
-      "enableParallax": false,
-      "parallaxImageRatio": 1.2,
-      "isHorizontal": false,
-      "parallax": false
     },
     {
       "layout": "bannerImage",
