@@ -491,60 +491,52 @@
       "autoPlay": false,
       "items": [
         {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Marie-fav-aout.png?v=1693558054",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Marie.png?v=1700059897",
           "defaultShowProduct":false,
           "showSubcategory":false,
           "products":[],
           "bannerWithProduct":false,
-          "product":"7625132212458"
+          "product":"8504296636751"
         },
         {
           "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Coralie-fav-aout.png?v=1693558054",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Marine.png?v=1700059897",
           "bannerWithProduct":false,
           "showSubcategory":false,
           "defaultShowProduct":false,
-          "product":"7490682552554"
+          "product":"7490680979690"
         },
         {
           "showSubcategory":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Marine-fav-aout.png?v=1693558054",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Coralie.png?v=1700059897",
           "bannerWithProduct":false,
           "defaultShowProduct":false,
           "products":[],
-          "product":"7490675704042"
+          "product":"7911966769386"
         },
         {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Lea-fav-aout.png?v=1693558054",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Ilona.png?v=1700059895",
           "bannerWithProduct":false,
           "products":[],
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "product":"7740435333354"
+          "product":"7490633335018"
         },
         {
           "bannerWithProduct":false,
           "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Ilona-fav-aout.png?v=1693558054",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Lea.png?v=1700059897",
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "product":"7792282140906"
+          "product":"7490647884010"
         },
         {
           "products":[],
           "bannerWithProduct":false,
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Berenice-fav-aout.png?v=1693558054",
-          "product":"8115079938366"
-        },
-        {
-          "showSubcategory":false,
-          "defaultShowProduct":false,
-          "bannerWithProduct":false,
-          "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Constance-fav-aout.png?v=1693558054",
-          "product":"7800547082474"
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Berenice.png?v=1700059897",
+          "product":"7490605252842"
         }
       ],
       "isHorizontal": false,
