@@ -1843,8 +1843,7 @@
           "title": "Sélectionnez l’offre \nTrousse ou Banane",
           "maxCanSelect": 1,
           "productIds": [
-            "7674094616810",
-            "7674094911722"
+            "7674094616810"
           ],
           "collectionId": null
         },
