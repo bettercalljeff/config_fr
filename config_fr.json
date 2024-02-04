@@ -331,20 +331,20 @@
       "items": [
         {
           "products": [],
-          "productBundle": "123",
+          "productBundle": "789",
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "showSubcategory": false,
           "bannerWithProduct": false,
           "padding": 5,
           "defaultShowProduct": true,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-noel-app1.jpg?v=1699437374"
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlemob_1_2023.jpg?v=1684138387"
         },
         {
           "products": [],
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "padding": 5,
-          "productBundle": "123",
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-noel-app2.jpg?v=1699437374",
+          "productBundle": "789",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlemob_2_2023.jpg?v=1684138387",
           "bannerWithProduct": false,
           "showSubcategory": false,
           "defaultShowProduct": false
@@ -1598,18 +1598,6 @@
         "iconFontFamily": "CupertinoIcons",
         "title": "Coffret sur-mesure"
       },
-      "bundle-kqauv9j051": {
-        "webUrl": "https://leavesandclouds.fr/pages/coffret-personnalisation",
-        "productBundle": "123",
-        "webViewMode": true,
-        "requiredLogin": false,
-        "enableForward": false,
-        "enableBackward": false,
-        "enableClose": true,
-        "icon": "gift",
-        "iconFontFamily": "CupertinoIcons",
-        "title": "Coffret sur-mesure (noël)"
-      },
       "category-mfrhvl5q6s": {
         "category": "gid://shopify/Collection/392679358698",
         "icon": "brightness",
@@ -1657,10 +1645,6 @@
       },
       {
         "type": "bundle-kqauv9j050",
-        "show": true
-      },
-      {
-        "type": "bundle-kqauv9j051",
         "show": true
       },
       {
