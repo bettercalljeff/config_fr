@@ -337,14 +337,14 @@
           "bannerWithProduct": false,
           "padding": 5,
           "defaultShowProduct": true,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlemob_1_2023.jpg?v=1684138387"
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-homepage-2024-1.jpg?v=1708937326"
         },
         {
           "products": [],
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "padding": 5,
           "productBundle": "789",
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlemob_2_2023.jpg?v=1684138387",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-homepage-2024-2.jpg?v=1708937325",
           "bannerWithProduct": false,
           "showSubcategory": false,
           "defaultShowProduct": false
@@ -1790,16 +1790,19 @@
       "title": "COFFRET SUR-MESURE",
       "groupName": "Coffret-sur-mesure",
       "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
-      "description": "Créez votre coffret personnalisé en choisissant notre option trousse en velours côtelé noire (+ 4 produits format voyage) à 40€ ou bien notre option banane en velours côtelé noire (+ 4 produits format voyage) à 55€. Tous les produits font moins de 100 ml et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/IMG_5239-carre_1000x.jpg?v=1682578240",
+      "description": "Créez votre coffret personnalisé en choisissant un contenant + 4 ou 5 produits format voyage. Tous les produits de beauté font 100 ml (ou moins) et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-2024.png?v=1708607474",
       "backgroundImage": null,
+      "forceMaxCanSelectFromMainProduct": [5, 5, 4, 4],
       "blocks": [
         {
-          "title": "Sélectionnez l’offre \nTrousse ou Banane",
+          "title": "Sélectionnez l’offre \nde votre choix",
           "maxCanSelect": 1,
           "productIds": [
-            "8830840537423",
-            "7674094911722"
+            "8937179873615",
+            "8937183871311",
+            "7674094911722",
+            "8830840537423"
           ],
           "collectionId": null
         },
