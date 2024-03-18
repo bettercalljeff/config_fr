@@ -223,7 +223,7 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/nos-cosme-homepage.jpg?v=1699360827",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Banniere-app-homepage-octobre23-1.png?v=1697136152",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/609871298895"
@@ -466,52 +466,52 @@
       "autoPlay": false,
       "items": [
         {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Marie.png?v=1700059897",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-marie-mars24.png?v=1708939334",
           "defaultShowProduct":false,
           "showSubcategory":false,
           "products":[],
           "bannerWithProduct":false,
-          "product":"8504296636751"
+          "product":"7490669838570"
         },
         {
           "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Marine.png?v=1700059897",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-marine-mars24.png?v=1708939334",
           "bannerWithProduct":false,
           "showSubcategory":false,
           "defaultShowProduct":false,
-          "product":"7490680979690"
+          "product":"8115104088382"
         },
         {
           "showSubcategory":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Coralie.png?v=1700059897",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-coralie-mars24.png?v=1708939333",
           "bannerWithProduct":false,
           "defaultShowProduct":false,
           "products":[],
-          "product":"7911966769386"
+          "product":"8504194040143"
         },
         {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Ilona.png?v=1700059895",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-lea-mars24.png?v=1708939334",
           "bannerWithProduct":false,
           "products":[],
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "product":"7490633335018"
+          "product":"7635012583658"
         },
         {
           "bannerWithProduct":false,
           "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Lea.png?v=1700059897",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-berenice-mars24.png?v=17089393314",
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "product":"7490647884010"
+          "product":"7490682552554"
         },
         {
           "products":[],
           "bannerWithProduct":false,
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Favoris-decembre-Berenice.png?v=1700059897",
-          "product":"7490605252842"
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-ilona-mars24.png?v=1708939331",
+          "product":"8115079938366"
         }
       ],
       "isHorizontal": false,
@@ -616,61 +616,50 @@
         {
           "showSubcategory": false,
           "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1avis-stickers.png?v=1693558054",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/CREME-avis-app.png?v=1710414165",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [
             ""
           ],
-          "product": "8068265935166"
+          "product": "8107843158334"
         },
         {
           "showSubcategory": false,
           "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1avis-gua-sha.png?v=1693558054",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/MOUSSE-avis-app.png?v=1710414167",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [
             ""
           ],
-          "product": "7800669569258"
+          "product": "8107841847614"
         },
         {
           "showSubcategory": false,
           "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1avis-box-botanique.png?v=1693558054",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/HUILE-avis-app.png?v=1710414166",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [
             ""
           ],
-          "product": "8050124685630"
+          "product": "8504194040143"
         },
         {
           "showSubcategory": false,
           "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1avis-bougie-firenze.png?v=1693558054",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/GOMMAGE-avis-app.png?v=1710414165",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [
             ""
           ],
-          "product": "7635012583658"
+          "product": "8504296636751"
         },
         {
-          "showSubcategory": false,
-          "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_3_4x_d487460e-4ae0-4491-88fa-0e28f44d553f.png?v=1673949247",
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "products": [
-            ""
-          ],
-          "product": "7490669805802"
-        },
-        {
-          "product": "7490649325802",
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_2_4x_5e221342-87b2-4d6b-b148-44f39232c450.png?v=1673949247",
+          "product": "8504286478671",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/MASQUE-avis-app.png?v=1710414165",
           "bannerWithProduct": false,
           "productLength": 1,
           "defaultShowProduct": false,
@@ -678,30 +667,6 @@
             ""
           ],
           "showSubcategory": false
-        },
-        {
-          "defaultShowProduct": false,
-          "bannerWithProduct": false,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_4x_2ca86f82-51f6-4ba3-84a4-9c4833e7d646.png?v=1673949251",
-          "showSubcategory": false,
-          "product": "7490669838570",
-          "products": []
-        },
-        {
-          "bannerWithProduct": false,
-          "showSubcategory": false,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_3_1_4x_77802db0-0ce6-42bb-959a-06a1c0d89dcf.png?v=1673949247",
-          "products": [],
-          "product": "7490669773034",
-          "defaultShowProduct": false
-        },
-        {
-          "bannerWithProduct": false,
-          "showSubcategory": false,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_4x_a676b00b-34e1-49ca-b6b4-bb58566b1dab.png?v=1673949247",
-          "products": [],
-          "product": "7890911363306",
-          "defaultShowProduct": false
         }
       ],
       "marginBottom": 10.0,
