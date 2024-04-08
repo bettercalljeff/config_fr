@@ -231,6 +231,14 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Banniere-app-solaires.jpg?v=1712593133",
+          "showSubcategory":false,
+          "products":[],
+          "category":"gid://shopify/Collection/392397717738"
+        },
+        {
+          "bannerWithProduct":false,
+          "defaultShowProduct":false,
           "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/nos-bougies-homepage.jpg?v=1699360827",
           "showSubcategory":false,
           "products":[],
@@ -239,7 +247,7 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/nos-promotions-homepage.jpg?v=1699360827",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Banniere-promotions.jpg?v=1712593132",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/392679391466"
