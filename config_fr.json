@@ -1764,8 +1764,9 @@
       "groupName": "Coffret-sur-mesure",
       "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
       "description": "Créez votre coffret personnalisé en choisissant un contenant + 4 ou 5 produits format voyage. Tous les produits de beauté font 100 ml (ou moins) et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-2024.png?v=1708607474",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/photo-bundle.png?v=1714136754",
       "backgroundImage": null,
+      "backgroundColor": "#E6E7ED",
       "forceMaxCanSelectFromMainProduct": [5, 5, 4, 4],
       "blocks": [
         {
