@@ -195,7 +195,7 @@
       "alignment": "centerLeft",
       "fontWeight": 200,
       "fontSize": 35,
-      "textOpacity": 1,
+      "textOpacity": 0.8,
       "marginLeft": 5.0,
       "marginRight": 5.0,
       "marginBottom": 0,
