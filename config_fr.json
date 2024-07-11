@@ -193,7 +193,7 @@
       "backgroundColor": "ede6f4",
       "textColor": "000000",
       "alignment": "centerLeft",
-      "fontWeight": 400,
+      "fontWeight": 200,
       "fontSize": 35,
       "textOpacity": 1,
       "marginLeft": 5.0,
@@ -223,7 +223,7 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Banniere-app-homepage-octobre23-1.png?v=1697136152",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-home-app.jpg?v=1720701590",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/609871298895"
@@ -231,7 +231,7 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Banniere-app-solaires.jpg?v=1712593133",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-home-ete-app.jpg?v=1720701591",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/392397717738"
@@ -239,7 +239,7 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/nos-bougies-homepage.jpg?v=1699360827",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-bougie-home-app.jpg?v=1720701590",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/392399716586"
@@ -247,7 +247,7 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Banniere-promotions.jpg?v=1712593132",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-promo-home-app.jpg?v=1720701591",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/392679391466"
@@ -280,7 +280,7 @@
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-violet.jpg?v=1720701591",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -375,7 +375,7 @@
       "marginLeft": 15.0,
       "items": [
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/carte-cadeau-app-octobre23-1.png?v=1697132299",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/carte-cadeau-app-violet.jpg?v=1720701591",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [],
@@ -412,7 +412,7 @@
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-violet.jpg?v=1720701591",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -547,7 +547,7 @@
       "marginLeft": 15.0,
       "items": [
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/idees-cadeaux-homepage.jpg?v=1699360826",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/idees-cadeaux-homepage-app.jpg?v=1720701590",
           "showSubcategory": false,
           "bannerWithProduct": false,
           "products": [],
@@ -596,7 +596,7 @@
       "backgroundRadius": 0,
       "columns": 0,
       "showCartIconColor": false,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-violet.jpg?v=1720701591",
       "hMargin": 9,
       "vMargin": 30,
       "imageBoxfit": "fill",
