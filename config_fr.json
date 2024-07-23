@@ -1671,11 +1671,11 @@
   },
   "searchSuggestion": [
     "Voici quelques suggestions :",
-    "BOX BOTANIQUE",
-    "GUA SHA QUARTZ BLANC",
-    "BOUGIE BÉLIZE",
-    "TOTEBAG MYSTIQUE",
-    "HUILE ESSENTIELLE TEA TREE"
+    "HUILE DÉMAQUILLANTE BIO NATURELLE",
+    "BOUGIE “MEÏSHAN” PÊCHE DE VIGNE",
+    "MANCHETTES ROUTINE SOIN BEAUTÉ",
+    "CRÈME DE JOUR NATURELLE HYDRATANTE",
+    "ROULEAU DE MASSAGE QUARTZ BLANC"
   ],
   "productBundles": [
     {
@@ -1877,7 +1877,7 @@
     "gid://shopify/Collection/392156414186",
     "gid://shopify/Collection/394601300202",
     "gid://shopify/Collection/392394932458",
-    "gid://shopify/Collection/392398209258"
+    "gid://shopify/Collection/392399716586"
   ],
   "maintainMode" : {
     "forceMaintain": false,
