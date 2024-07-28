@@ -190,10 +190,10 @@
       "borderInput": false,
       "title": "Livraison offerte en France et en Belgique dès 60€",
       "type": "static",
-      "backgroundColor": "809c88",
-      "textColor": "ffffffff",
+      "backgroundColor": "ede6f4",
+      "textColor": "000000",
       "alignment": "centerLeft",
-      "fontWeight": 500,
+      "fontWeight": 200,
       "fontSize": 35,
       "textOpacity": 1,
       "marginLeft": 5.0,
@@ -223,40 +223,34 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Banniere-app-homepage-octobre23-1.png?v=1697136152",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-home-app.jpg?v=1720701590",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/609871298895"
         },
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere_box_botanique_c4329b9b-956d-4ff7-a366-aaeea71f848e.jpg?v=1684138205",
-          "product": "8050124685630",
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false
-        },
-        {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/coffretbougies.jpg?v=1671102903",
-          "product": "7890911363306",
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false
-        },
-        {
-          "bannerWithProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere-huiles-essentielles.jpg?v=1671102561",
-          "showSubcategory":false,
-          "product":"7859006177514",
-          "products":[],
-          "defaultShowProduct":false
-        },
-        {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere-gourdes.jpg?v=1671102808",
-          "showSubcategory":false,
           "bannerWithProduct":false,
           "defaultShowProduct":false,
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-home-ete-app.jpg?v=1720701591",
+          "showSubcategory":false,
           "products":[],
-          "category":"gid://shopify/Collection/405725413610"
+          "category":"gid://shopify/Collection/392397717738"
+        },
+        {
+          "bannerWithProduct":false,
+          "defaultShowProduct":false,
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-bougie-home-app.jpg?v=1720701590",
+          "showSubcategory":false,
+          "products":[],
+          "category":"gid://shopify/Collection/392399716586"
+        },
+        {
+          "bannerWithProduct":false,
+          "defaultShowProduct":false,
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-promo-home-app.jpg?v=1720701591",
+          "showSubcategory":false,
+          "products":[],
+          "category":"gid://shopify/Collection/392679391466"
         }
       ],
       "marginBottom": 0.0,
@@ -286,7 +280,7 @@
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-violet.jpg?v=1720701591",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -318,7 +312,8 @@
       "hidePrice": false,
       "columns": 0,
       "hideStore": false,
-      "backgroundBoxFit": "contain",
+      "backgroundWidthMode": true,
+      "backgroundBoxFit": "cover",
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MjE1NjQxNDE4Ng==",
       "imageBoxfit": "fill",
       "showCartIcon": true,
@@ -328,7 +323,8 @@
       "showCartButtonWithQuantity": false,
       "showCountDown": false,
       "borderRadius": 12,
-      "cartIconRadius": 9
+      "cartIconRadius": 9,
+      "enableParallax": false
     },
     {
       "layout": "spacer",
@@ -343,20 +339,20 @@
       "items": [
         {
           "products": [],
-          "productBundle": "123",
+          "productBundle": "789",
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "showSubcategory": false,
           "bannerWithProduct": false,
           "padding": 5,
           "defaultShowProduct": true,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlemob_1_2023.jpg?v=1684138387"
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-homepage-2024-1.jpg?v=1708937326"
         },
         {
           "products": [],
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "padding": 5,
-          "productBundle": "123",
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlemob_2_2023.jpg?v=1684138387",
+          "productBundle": "789",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-homepage-2024-2.jpg?v=1708937325",
           "bannerWithProduct": false,
           "showSubcategory": false,
           "defaultShowProduct": false
@@ -379,7 +375,7 @@
       "marginLeft": 15.0,
       "items": [
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/carte-cadeau-app-octobre23-1.png?v=1697132299",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/carte-cadeau-app-violet.jpg?v=1720701591",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [],
@@ -416,7 +412,7 @@
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-violet.jpg?v=1720701591",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -448,7 +444,8 @@
       "hidePrice": false,
       "columns": 0,
       "hideStore": false,
-      "backgroundBoxFit": "contain",
+      "backgroundWidthMode": true,
+      "backgroundBoxFit": "cover",
       "imageBoxfit": "fill",
       "showCartIcon": true,
       "onSale": false,
@@ -477,60 +474,52 @@
       "autoPlay": false,
       "items": [
         {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Marie-fav-aout.png?v=1693558054",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-marie-mars24.png?v=1708939334",
           "defaultShowProduct":false,
           "showSubcategory":false,
           "products":[],
           "bannerWithProduct":false,
-          "product":"7625132212458"
+          "product":"7490669838570"
         },
         {
           "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Coralie-fav-aout.png?v=1693558054",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-marine-mars24.png?v=1708939334",
           "bannerWithProduct":false,
           "showSubcategory":false,
           "defaultShowProduct":false,
+          "product":"8115104088382"
+        },
+        {
+          "showSubcategory":false,
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-coralie-mars24.png?v=1708939333",
+          "bannerWithProduct":false,
+          "defaultShowProduct":false,
+          "products":[],
+          "product":"8504194040143"
+        },
+        {
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-lea-mars24.png?v=1708939334",
+          "bannerWithProduct":false,
+          "products":[],
+          "defaultShowProduct":false,
+          "showSubcategory":false,
+          "product":"7635012583658"
+        },
+        {
+          "bannerWithProduct":false,
+          "products":[],
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-berenice-mars24.png?v=17089393314",
+          "defaultShowProduct":false,
+          "showSubcategory":false,
           "product":"7490682552554"
         },
         {
-          "showSubcategory":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Marine-fav-aout.png?v=1693558054",
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "products":[],
-          "product":"7490675704042"
-        },
-        {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Lea-fav-aout.png?v=1693558054",
-          "bannerWithProduct":false,
-          "products":[],
-          "defaultShowProduct":false,
-          "showSubcategory":false,
-          "product":"7740435333354"
-        },
-        {
-          "bannerWithProduct":false,
-          "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Ilona-fav-aout.png?v=1693558054",
-          "defaultShowProduct":false,
-          "showSubcategory":false,
-          "product":"7792282140906"
-        },
-        {
           "products":[],
           "bannerWithProduct":false,
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Berenice-fav-aout.png?v=1693558054",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-ilona-mars24.png?v=1708939331",
           "product":"8115079938366"
-        },
-        {
-          "showSubcategory":false,
-          "defaultShowProduct":false,
-          "bannerWithProduct":false,
-          "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1Constance-fav-aout.png?v=1693558054",
-          "product":"7800547082474"
         }
       ],
       "isHorizontal": false,
@@ -554,20 +543,21 @@
     {
       "layout": "bannerImage",
       "design": "static",
-      "fit": "cover",
+      "fit": "contain",
       "marginLeft": 15.0,
       "items": [
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere_box_mai_2023_fac6931d-0f85-4197-a508-411453facb89.jpg?v=1684138204",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/idees-cadeaux-homepage-app.jpg?v=1720701590",
           "showSubcategory": false,
           "bannerWithProduct": false,
           "products": [],
           "defaultShowProduct": false,
-          "category": "gid://shopify/Collection/392679358698",
+          "category": "gid://shopify/Collection/428003426622",
           "padding": 15.0
         }
       ],
       "marginBottom": 20.0,
+      "radius": 15.0,
       "height": 0.23,
       "marginRight": 0.0,
       "marginTop": 0.0,
@@ -580,7 +570,8 @@
       "enableBottomAddToCart": false,
       "showQuantity": false,
       "hidePrice": false,
-      "backgroundBoxFit": "contain",
+      "backgroundWidthMode": true,
+      "backgroundBoxFit": "cover",
       "parallaxImageRatio": 1.2,
       "parallax": false,
       "hideTitle": false,
@@ -605,7 +596,7 @@
       "backgroundRadius": 0,
       "columns": 0,
       "showCartIconColor": false,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-octobre23.png?v=1696921792",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-violet.jpg?v=1720701591",
       "hMargin": 9,
       "vMargin": 30,
       "imageBoxfit": "fill",
@@ -633,61 +624,50 @@
         {
           "showSubcategory": false,
           "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1avis-stickers.png?v=1693558054",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/CREME-avis-app.png?v=1710414165",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [
             ""
           ],
-          "product": "8068265935166"
+          "product": "8107843158334"
         },
         {
           "showSubcategory": false,
           "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1avis-gua-sha.png?v=1693558054",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/MOUSSE-avis-app.png?v=1710414167",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [
             ""
           ],
-          "product": "7800669569258"
+          "product": "8107841847614"
         },
         {
           "showSubcategory": false,
           "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1avis-box-botanique.png?v=1693558054",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/HUILE-avis-app.png?v=1710414166",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [
             ""
           ],
-          "product": "8050124685630"
+          "product": "8504194040143"
         },
         {
           "showSubcategory": false,
           "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/1avis-bougie-firenze.png?v=1693558054",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/GOMMAGE-avis-app.png?v=1710414165",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [
             ""
           ],
-          "product": "7635012583658"
+          "product": "8504296636751"
         },
         {
-          "showSubcategory": false,
-          "productLength": 1,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_3_4x_d487460e-4ae0-4491-88fa-0e28f44d553f.png?v=1673949247",
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "products": [
-            ""
-          ],
-          "product": "7490669805802"
-        },
-        {
-          "product": "7490649325802",
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_2_4x_5e221342-87b2-4d6b-b148-44f39232c450.png?v=1673949247",
+          "product": "8504286478671",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/MASQUE-avis-app.png?v=1710414165",
           "bannerWithProduct": false,
           "productLength": 1,
           "defaultShowProduct": false,
@@ -695,30 +675,6 @@
             ""
           ],
           "showSubcategory": false
-        },
-        {
-          "defaultShowProduct": false,
-          "bannerWithProduct": false,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_4x_2ca86f82-51f6-4ba3-84a4-9c4833e7d646.png?v=1673949251",
-          "showSubcategory": false,
-          "product": "7490669838570",
-          "products": []
-        },
-        {
-          "bannerWithProduct": false,
-          "showSubcategory": false,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_3_1_4x_77802db0-0ce6-42bb-959a-06a1c0d89dcf.png?v=1673949247",
-          "products": [],
-          "product": "7490669773034",
-          "defaultShowProduct": false
-        },
-        {
-          "bannerWithProduct": false,
-          "showSubcategory": false,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Plan_de_travail_1_copie_4x_a676b00b-34e1-49ca-b6b4-bb58566b1dab.png?v=1673949247",
-          "products": [],
-          "product": "7890911363306",
-          "defaultShowProduct": false
         }
       ],
       "marginBottom": 10.0,
@@ -1605,7 +1561,7 @@
       },
       "bundle-kqauv9j050": {
         "webUrl": "https://leavesandclouds.fr/pages/coffret-personnalisation",
-        "productBundle": "123",
+        "productBundle": "789",
         "webViewMode": true,
         "requiredLogin": false,
         "enableForward": false,
@@ -1677,10 +1633,6 @@
         "show": true
       },
       {
-        "type": "web-wv0hzetqjc",
-        "show": true
-      },
-      {
         "type": "blog",
         "show": true
       },
@@ -1719,27 +1671,112 @@
   },
   "searchSuggestion": [
     "Voici quelques suggestions :",
-    "BOX BOTANIQUE",
-    "GUA SHA QUARTZ BLANC",
-    "BOUGIE BÉLIZE",
-    "TOTEBAG MYSTIQUE",
-    "HUILE ESSENTIELLE TEA TREE"
+    "HUILE DÉMAQUILLANTE BIO NATURELLE",
+    "BOUGIE “MEÏSHAN” PÊCHE DE VIGNE",
+    "MANCHETTES ROUTINE SOIN BEAUTÉ",
+    "CRÈME DE JOUR NATURELLE HYDRATANTE",
+    "ROULEAU DE MASSAGE QUARTZ BLANC"
   ],
   "productBundles": [
     {
       "id": "123",
+      "title": "Coffret de Noël",
+      "groupName": "Coffret-sur-mesure",
+      "url": "https://leavesandclouds.fr/pages/coffret-personnalisation-noel",
+      "description": "Créez votre coffret personnalisé pour les fêtes en choisissant une de nos 2 options : notre pochette à volants + 4 ou 5 produits format voyage ! Le pack pochette et ses 4 produits est au prix de 34€ et le pack pochette et ses 5 produits au prix de 39€. Tous les produits de beauté font 100 ml ou moins et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
+      "backgroundColor": "#57695A",
+      "bannerConfig": {
+        "layout": "bannerImage",
+        "design": "swiper",
+        "fit": "cover",
+        "marginLeft": 0.0,
+        "viewportFraction": 0.5,
+        "scale": 0.8,
+        "items": [
+          {
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlenoel2.jpg?v=1698834768",
+            "showSubcategory": false,
+            "products": []
+          },
+          {
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlenoel1.jpg?v=1698834767",
+            "showSubcategory": false,
+            "products": []
+          },
+          {
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlenoel4.jpg?v=1698834767",
+            "showSubcategory": false,
+            "products": []
+          },
+          {
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundlenoel3.jpg?v=1698834767",
+            "showSubcategory": false,
+            "products": []
+          }
+        ],
+        "marginBottom": 10.0,
+        "marginRight": 0.0,
+        "marginTop": 12.0,
+        "radius": 4.0,
+        "padding": 0.0,
+        "enableParallax": false,
+        "parallaxImageRatio": 1.2,
+        "isHorizontal": false,
+        "isSlider": true,
+        "autoPlay": false,
+        "intervalTime": 3,
+        "showNumber": false,
+        "isBlur": false,
+        "showBackground": false,
+        "upHeight": 0.0,
+        "parallax": false
+      },
+      "backgroundImage": null,
+      "forceMaxCanSelectFromMainProduct":  [4,5],
+      "blocks": [
+        {
+          "title": "Sélectionnez l’offre de votre choix",
+          "maxCanSelect": 1,
+          "productIds": [
+            "8693153923407",
+            "8732229206351"
+          ],
+          "collectionId": null
+        },
+        {
+          "title": "Sélectionnez 4 produits",
+          "maxCanSelect": 4,
+          "collectionId": "435760103742"
+        }
+      ]
+    },
+    {
+      "id": "789",
       "title": "COFFRET SUR-MESURE",
       "groupName": "Coffret-sur-mesure",
       "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
-      "description": "Créez votre coffret personnalisé en choisissant notre option trousse en velours côtelé noire (+ 4 produits format voyage) à 40€ ou bien notre option banane en velours côtelé noire (+ 4 produits format voyage) à 55€. Tous les produits font moins de 100 ml et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/IMG_5239-carre_1000x.jpg?v=1682578240",
+      "description": "Créez votre coffret personnalisé en choisissant un contenant + 4 ou 5 produits format voyage. Tous les produits de beauté font 100 ml (ou moins) et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/photo-bundle.png?v=1714136754",
       "backgroundImage": null,
+      "backgroundColor": "#BFBFC1",
+      "forceMaxCanSelectFromMainProduct": [5, 5, 4, 4],
       "blocks": [
         {
-          "title": "Sélectionnez l’offre \nTrousse ou Banane",
+          "title": "Sélectionnez l’offre \nde votre choix",
           "maxCanSelect": 1,
           "productIds": [
-            "7674094616810",
+            "8937179873615",
+            "8937183871311",
+            "9077247541583",
+            "8830840537423",
             "7674094911722"
           ],
           "collectionId": null
@@ -1841,6 +1878,11 @@
     "gid://shopify/Collection/392156414186",
     "gid://shopify/Collection/394601300202",
     "gid://shopify/Collection/392394932458",
-    "gid://shopify/Collection/392398209258"
-  ]
+    "gid://shopify/Collection/392399716586"
+  ],
+  "maintainMode" : {
+    "forceMaintain": false,
+    "startTime": "2023-12-25T23:59:00+0100",
+    "endTime": "2023-12-28T16:00:00+0100"
+  }
 }
