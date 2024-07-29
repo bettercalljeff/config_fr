@@ -1767,7 +1767,7 @@
       "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/photo-bundle.png?v=1714136754",
       "backgroundImage": null,
       "backgroundColor": "#BFBFC1",
-      "forceMaxCanSelectFromMainProduct": [5, 5, 4, 4],
+      "forceMaxCanSelectFromMainProduct": [5, 5, 4, 4,4],
       "blocks": [
         {
           "title": "Sélectionnez l’offre \nde votre choix",
