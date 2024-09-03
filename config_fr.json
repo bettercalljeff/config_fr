@@ -345,14 +345,14 @@
           "bannerWithProduct": false,
           "padding": 5,
           "defaultShowProduct": true,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-homepage-2024-1.jpg?v=1708937326"
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app-coffret1.jpg?v=1725010697"
         },
         {
           "products": [],
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "padding": 5,
           "productBundle": "789",
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/bundle-homepage-2024-2.jpg?v=1708937325",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app-coffret2.jpg?v=1725010697",
           "bannerWithProduct": false,
           "showSubcategory": false,
           "defaultShowProduct": false
@@ -474,52 +474,44 @@
       "autoPlay": false,
       "items": [
         {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-marie-mars24.png?v=1708939334",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Bannieres-produits-marie.png?v=1725007392",
           "defaultShowProduct":false,
           "showSubcategory":false,
           "products":[],
           "bannerWithProduct":false,
-          "product":"7490669838570"
+          "product":"9375921865039"
         },
         {
           "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-marine-mars24.png?v=1708939334",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Bannieres-produits-marine.png?v=1725007392",
           "bannerWithProduct":false,
           "showSubcategory":false,
           "defaultShowProduct":false,
-          "product":"8115104088382"
+          "product":"8005376573758"
         },
         {
           "showSubcategory":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-coralie-mars24.png?v=1708939333",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Bannieres-produits-Coralie.png?v=1725007391",
           "bannerWithProduct":false,
           "defaultShowProduct":false,
           "products":[],
-          "product":"8504194040143"
+          "product":"8839475134799"
         },
         {
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-lea-mars24.png?v=1708939334",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Bannieres-produits-lea.png?v=1725007392",
           "bannerWithProduct":false,
           "products":[],
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "product":"7635012583658"
+          "product":"7490627993834"
         },
         {
           "bannerWithProduct":false,
           "products":[],
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-berenice-mars24.png?v=17089393314",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Bannieres-produits-beroche.png?v=1725007392",
           "defaultShowProduct":false,
           "showSubcategory":false,
-          "product":"7490682552554"
-        },
-        {
-          "products":[],
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "showSubcategory":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Fav-ilona-mars24.png?v=1708939331",
-          "product":"8115079938366"
+          "product":"7490636677354"
         }
       ],
       "isHorizontal": false,
