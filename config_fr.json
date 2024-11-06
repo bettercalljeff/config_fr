@@ -95,7 +95,7 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-home-app.jpg?v=1720701590",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app-lacskincare.jpg?v=1728479671",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/609871298895"
@@ -103,23 +103,15 @@
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-home-ete-app.jpg?v=1720701591",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/hiver-banner-app.jpg?v=1729065395",
           "showSubcategory":false,
           "products":[],
-          "category":"gid://shopify/Collection/392397717738"
+          "category":"gid://shopify/Collection/612204216655"
         },
         {
           "bannerWithProduct":false,
           "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-bougie-home-app.jpg?v=1720701590",
-          "showSubcategory":false,
-          "products":[],
-          "category":"gid://shopify/Collection/392399716586"
-        },
-        {
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-promo-home-app.jpg?v=1720701591",
+          "image":"https://cdn.shopify.com/s/files/1/0605/9750/2186/files/slider-promo-app.jpg?v=1729068264",
           "showSubcategory":false,
           "products":[],
           "category":"gid://shopify/Collection/392679391466"
