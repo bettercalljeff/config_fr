@@ -835,113 +835,91 @@
         {
           "parent": "gid://shopify/Collection/392394932458",
           "category": "gid://shopify/Collection/392395358442",
-          "name": "VISAGE"
-        },
-                {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395653354",
-          "name": "Crème & Huile"
+          "note": "VISAGE"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395620586",
-          "name": "Sérum & Fluide"
+          "category": "gid://shopify/Collection/392395653354"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395587818",
-          "name": "Gommage & Exfoliant"
+          "category": "gid://shopify/Collection/392395620586"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395686122",
-          "name": "Masque"
+          "category": "gid://shopify/Collection/392395522282"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395751658",
-          "name": "Brume & Tonique"
+          "category": "gid://shopify/Collection/392395587818"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395784426",
-          "name": "Savon & Baume"
+          "category": "gid://shopify/Collection/392395686122"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395817194",
-          "name": "Lèvres"
+          "category": "gid://shopify/Collection/392395751658"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395849962",
-          "name": "Yeux"
+          "category": "gid://shopify/Collection/392395784426"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395817194"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395849962"
         },
         {
           "parent": "gid://shopify/Collection/392394932458",
           "category": "gid://shopify/Collection/392395948266",
-          "name": "CORPS"
+          "note": "CORPS"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392395981034",
-          "name": "Crème & Mousse"
+          "category": "gid://shopify/Collection/392395981034"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396210410",
-          "name": "Gel & Lait"
+          "category": "gid://shopify/Collection/392396210410"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396013802",
-          "name": "Savons & gels douche"
+          "category": "gid://shopify/Collection/392396013802"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396013802",
-          "name": "Douche & Bain"
+          "category": "gid://shopify/Collection/392396308714"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396308714",
-          "name": "Déodorant"
+          "category": "gid://shopify/Collection/392396144874"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396144874",
-          "name": "Gommage & Exfoliant"
+          "category": "gid://shopify/Collection/392396177642"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396177642",
-          "name": "Huile & Elixir"
+          "category": "gid://shopify/Collection/392396275946"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396275946",
-          "name": "Parfum & Brume"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396931306",
-          "name": "Hygiène"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392397226218",
-          "name": "Mains"
+          "category": "gid://shopify/Collection/392396439786"
         },
         {
           "parent": "gid://shopify/Collection/392394932458",
-          "category": "gid://shopify/Collection/392396931306",
+          "category": "gid://shopify/Collection/392396931306"
         },
         {
           "parent": "gid://shopify/Collection/392394932458",
-          "category": "gid://shopify/Collection/392397226218",
+          "category": "gid://shopify/Collection/392397226218"
         },
         {
-          "category": "gid://shopify/Collection/392765440234",
+          "category": "gid://shopify/Collection/392765440234"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
@@ -993,11 +971,11 @@
         },
         {
           "parent": "gid://shopify/Collection/392398274794",
-          "category": "gid://shopify/Collection/405724954858",
+          "category": "gid://shopify/Collection/405724954858"
         },
         {
           "parent": "gid://shopify/Collection/392398274794",
-          "category": "gid://shopify/Collection/405865365738",
+          "category": "gid://shopify/Collection/405865365738"
         },
         {
           "parent": "gid://shopify/Collection/392398274794",
@@ -1006,19 +984,19 @@
         },
         {
           "parent": "gid://shopify/Collection/392398274794",
-          "category": "gid://shopify/Collection/405725184234",
+          "category": "gid://shopify/Collection/405725184234"
         },
         {
           "parent": "gid://shopify/Collection/392398274794",
-          "category": "gid://shopify/Collection/398260044010",
+          "category": "gid://shopify/Collection/398260044010"
         },
         {
           "parent": "gid://shopify/Collection/392398274794",
-          "category": "gid://shopify/Collection/405725413610",
+          "category": "gid://shopify/Collection/405725413610"
         },
         {
           "parent": "gid://shopify/Collection/392398274794",
-          "category": "gid://shopify/Collection/405725708522",
+          "category": "gid://shopify/Collection/405725708522"
         },
         {
           "parent": "gid://shopify/Collection/392398373098",
@@ -1042,11 +1020,11 @@
         },
         {
           "parent": "gid://shopify/Collection/392398307562",
-          "category": "gid://shopify/Collection/405725970666",
+          "category": "gid://shopify/Collection/405725970666"
         },
         {
           "parent": "gid://shopify/Collection/392398307562",
-          "category": "gid://shopify/Collection/405726036202",
+          "category": "gid://shopify/Collection/405726036202"
         },
         {
           "parent": "gid://shopify/Collection/392398307562",
@@ -1058,27 +1036,27 @@
         },
         {
           "parent": "gid://shopify/Collection/633039454543",
-          "category": "gid://shopify/Collection/392398766314",
+          "category": "gid://shopify/Collection/392398766314"
         },
         {
           "parent": "gid://shopify/Collection/633039454543",
-          "category": "gid://shopify/Collection/392398536938",
+          "category": "gid://shopify/Collection/392398536938"
         },
         {
           "parent": "gid://shopify/Collection/633039454543",
-          "category": "gid://shopify/Collection/392398668010",
+          "category": "gid://shopify/Collection/392398668010"
         },
         {
           "parent": "gid://shopify/Collection/633039454543",
-          "category": "gid://shopify/Collection/649029353807",
+          "category": "gid://shopify/Collection/649029353807"
         },
         {
           "category": "gid://shopify/Collection/392398700778",
-          "parent": "gid://shopify/Collection/392398504170",
+          "parent": "gid://shopify/Collection/392398504170"
         },
         {
           "parent": "gid://shopify/Collection/392398504170",
-          "category": "gid://shopify/Collection/392398733546",
+          "category": "gid://shopify/Collection/392398733546"
         },
         {
           "category": "gid://shopify/Collection/392398766314"
@@ -1088,31 +1066,31 @@
         },
         {
           "category": "gid://shopify/Collection/392399716586",
-          "parent": "gid://shopify/Collection/392399618282",
+          "parent": "gid://shopify/Collection/392399618282"
         },
         {
           "category": "gid://shopify/Collection/392399683818",
-          "parent": "gid://shopify/Collection/392399618282",
+          "parent": "gid://shopify/Collection/392399618282"
         },
         {
           "category": "gid://shopify/Collection/392399782122",
-          "parent": "gid://shopify/Collection/392399618282",
+          "parent": "gid://shopify/Collection/392399618282"
         },
         {
           "parent": "gid://shopify/Collection/392399618282",
-          "category": "gid://shopify/Collection/392399880426",
+          "category": "gid://shopify/Collection/392399880426"
         },
         {
           "parent": "gid://shopify/Collection/392399618282",
-          "category": "gid://shopify/Collection/392399913194",
+          "category": "gid://shopify/Collection/392399913194"
         },
         {
           "parent": "gid://shopify/Collection/392399618282",
-          "category": "gid://shopify/Collection/392399978730",
+          "category": "gid://shopify/Collection/392399978730"
         },
         {
           "parent": "gid://shopify/Collection/392399618282",
-          "category": "gid://shopify/Collection/392399945962",
+          "category": "gid://shopify/Collection/392399945962"
         },
         {
           "parent": "gid://shopify/Collection/392398536938",
@@ -1136,15 +1114,15 @@
         },
         {
           "parent": "gid://shopify/Collection/392398536938",
-          "category": "gid://shopify/Collection/399937143018",
+          "category": "gid://shopify/Collection/399937143018"
         },
         {
           "parent": "gid://shopify/Collection/392399651050",
-          "category": "gid://shopify/Collection/392399716586",
+          "category": "gid://shopify/Collection/392399716586"
         },
         {
           "parent": "gid://shopify/Collection/392399651050",
-          "category": "gid://shopify/Collection/392399683818",
+          "category": "gid://shopify/Collection/392399683818"
         },
         {
           "parent": "gid://shopify/Collection/392399651050",
@@ -1168,20 +1146,60 @@
         },
         {
           "parent": "gid://shopify/Collection/392398307562",
-          "category": "gid://shopify/Collection/405725970666",
+          "category": "gid://shopify/Collection/405725970666"
         },
         {
           "parent": "gid://shopify/Collection/392398307562",
-          "category": "gid://shopify/Collection/405726036202",
+          "category": "gid://shopify/Collection/405726036202"
         },
         {
           "parent": "gid://shopify/Collection/392398307562",
-          "category": "gid://shopify/Collection/405726068970",
+          "category": "gid://shopify/Collection/405726068970"
         },
         {
           "parent": "gid://shopify/Collection/392398242026",
           "category": "gid://shopify/Collection/392398340330",
           "name": "Lifestyle"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395653354",
+          "name": "Crème & Huile"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395620586",
+          "name": "Sérum & Fluide"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395587818",
+          "name": "Gommage & Exfoliant"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395686122",
+          "name": "Masque"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395751658",
+          "name": "Brume & Tonique"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395784426",
+          "name": "Savon & Baume"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395817194",
+          "name": "Lèvres"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395849962",
+          "name": "Yeux"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
@@ -1290,11 +1308,11 @@
         },
         {
           "parent": "gid://shopify/Collection/392397553898",
-          "category": "gid://shopify/Collection/392397619434",
+          "category": "gid://shopify/Collection/392397619434"
         },
         {
           "parent": "gid://shopify/Collection/392397553898",
-          "category": "gid://shopify/Collection/392397652202",
+          "category": "gid://shopify/Collection/392397652202"
         },
         {
           "category": "gid://shopify/Collection/392396505322"
