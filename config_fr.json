@@ -832,119 +832,150 @@
           "category": "gid://shopify/Collection/609871298895",
           "name": "LACSKINCARE ☁\uFE0F"
         },
-        {
-          "parent": "gid://shopify/Collection/392394932458",
+         {
+          "parent": "gid://shopify/Collection/609871298895",
           "category": "gid://shopify/Collection/392395358442",
-          "note": "VISAGE"
+          "name": "Visage"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395653354"
+          "category": "gid://shopify/Collection/392395653354",
+          "name": "Crème & Huile"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395620586"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395522282"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395587818"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395686122"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395751658"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395784426"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395817194"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395849962"
-        },
-        {
-          "parent": "gid://shopify/Collection/392394932458",
-          "category": "gid://shopify/Collection/392395948266",
-          "note": "CORPS"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392395981034"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396210410"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396013802"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396308714"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396144874"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396177642"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396275946"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396439786"
-        },
-        {
-          "parent": "gid://shopify/Collection/392394932458",
-          "category": "gid://shopify/Collection/392396931306"
-        },
-        {
-          "parent": "gid://shopify/Collection/392394932458",
-          "category": "gid://shopify/Collection/392397226218"
-        },
-        {
-          "category": "gid://shopify/Collection/392765440234"
+          "category": "gid://shopify/Collection/392395620586",
+          "name": "Sérum & Fluide"
         },
         {
           "parent": "gid://shopify/Collection/392395358442",
           "category": "gid://shopify/Collection/392395522282",
-          "name": "Démaquillants"
+          "name": "Démaquillant & Nettoyant"
         },
         {
-          "parent": "gid://shopify/Collection/392765440234",
-          "category": "gid://shopify/Collection/392765571306",
-          "name": "YEUX"
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395587818",
+          "name": "Gommage & Exfoliant"
         },
         {
-          "parent": "gid://shopify/Collection/392765440234",
-          "category": "gid://shopify/Collection/392765604074",
-          "name": "TEINT"
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395686122",
+          "name": "Masque"
         },
         {
-          "parent": "gid://shopify/Collection/392765440234",
-          "category": "gid://shopify/Collection/392765636842",
-          "name": "LÈVRES"
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395751658",
+          "name": "Brume & Tonique"
         },
         {
-          "parent": "gid://shopify/Collection/392765440234",
-          "category": "gid://shopify/Collection/393293693162",
-          "name": "ACCESSOIRES"
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395784426",
+          "name": "Savon & Baume"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395817194",
+          "name": "Lèvres"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395358442",
+          "category": "gid://shopify/Collection/392395849962",
+          "name": "Yeux"
+        },
+        {
+          "parent": "gid://shopify/Collection/609871298895",
+          "category": "gid://shopify/Collection/392395948266",
+          "name": "Corps"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392395981034",
+          "name": "Crème & Mousse"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392396210410",
+          "name": "Gel & Lait"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392396013802",
+          "name": "Douche & Bain"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392396308714",
+          "name": "Déodorant"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392396144874",
+          "name": "Gommage & Exfoliant"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392396177642",
+          "name": "Huile & Elixir"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392396275946",
+          "name": "Parfum & Brume"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392396439786",
+          "name": "Rasage & Intimité"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392396931306",
+          "name": "Hygiène"
+        },
+        {
+          "parent": "gid://shopify/Collection/392395948266",
+          "category": "gid://shopify/Collection/392397226218",
+          "name": "Mains"
+        },
+        {
+          "parent": "gid://shopify/Collection/609871298895",
+          "category": "gid://shopify/Collection/392396505322",
+          "name": "Cheveux"
+        },
+        {
+          "parent": "gid://shopify/Collection/392396505322",
+          "category": "gid://shopify/Collection/392396538090",
+          "name": "Shampoing"
+        },
+        {
+          "parent": "gid://shopify/Collection/392396505322",
+          "category": "gid://shopify/Collection/392396636394",
+          "name": "Masque & Après-shampoing"
+        },
+        {
+          "parent": "gid://shopify/Collection/392396505322",
+          "category": "gid://shopify/Collection/392396734698",
+          "name": "Huile & Sérum"
+        },
+        {
+          "parent": "gid://shopify/Collection/392396505322",
+          "category": "gid://shopify/Collection/392396833002",
+          "name": "Gelée & Lait"
+        },
+        {
+          "parent": "gid://shopify/Collection/392396505322",
+          "category": "gid://shopify/Collection/392396800234",
+          "name": "Brume & Elixir"
+        },
+        {
+          "parent": "gid://shopify/Collection/609871298895",
+          "category": "gid://shopify/Collection/392397750506",
+          "name": "Bien-être"
+        },
+        {
+          "parent": "gid://shopify/Collection/609871298895",
+          "category": "gid://shopify/Collection/392395915498",
+          "name": "Accessoires"
         },
         {
           "category": "gid://shopify/Collection/392398209258"
@@ -1162,46 +1193,6 @@
           "name": "Lifestyle"
         },
         {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395653354",
-          "name": "Crème & Huile"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395620586",
-          "name": "Sérum & Fluide"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395587818",
-          "name": "Gommage & Exfoliant"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395686122",
-          "name": "Masque"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395751658",
-          "name": "Brume & Tonique"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395784426",
-          "name": "Savon & Baume"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395817194",
-          "name": "Lèvres"
-        },
-        {
-          "parent": "gid://shopify/Collection/392395358442",
-          "category": "gid://shopify/Collection/392395849962",
-          "name": "Yeux"
-        },
-        {
           "parent": "gid://shopify/Collection/392395948266",
           "category": "gid://shopify/Collection/392395981034",
           "name": "Crème & Mousse"
@@ -1341,9 +1332,6 @@
           "parent": "gid://shopify/Collection/392396505322",
           "category": "gid://shopify/Collection/392396800234",
           "name": "Brume & Elixir"
-        },
-        {
-          "category": "gid://shopify/Collection/392397750506"
         },
         {
           "category": "gid://shopify/Collection/392395915498"
