@@ -911,11 +911,11 @@
           "category": "gid://shopify/Collection/392396439786"
         },
         {
-          "parent": "gid://shopify/Collection/392394932458",
+          "parent": "gid://shopify/Collection/392395948266",
           "category": "gid://shopify/Collection/392396931306"
         },
         {
-          "parent": "gid://shopify/Collection/392394932458",
+          "parent": "gid://shopify/Collection/392395948266",
           "category": "gid://shopify/Collection/392397226218"
         },
         {
@@ -1315,7 +1315,9 @@
           "category": "gid://shopify/Collection/392397652202"
         },
         {
-          "category": "gid://shopify/Collection/392396505322"
+          "parent": "gid://shopify/Collection/392394932458",
+          "category": "gid://shopify/Collection/392396505322",
+          "name": "CHEVEUX"
         },
         {
           "parent": "gid://shopify/Collection/392396505322",
@@ -1325,7 +1327,7 @@
         {
           "parent": "gid://shopify/Collection/392396505322",
           "category": "gid://shopify/Collection/392396636394",
-          "name": "Shampoing"
+          "name": "Masque & Après-shampoing"
         },
         {
           "parent": "gid://shopify/Collection/392396505322",
@@ -1341,6 +1343,16 @@
           "parent": "gid://shopify/Collection/392396505322",
           "category": "gid://shopify/Collection/392396800234",
           "name": "Brume & Elixir"
+        },
+        {
+          "parent": "gid://shopify/Collection/392394932458",
+          "category": "gid://shopify/Collection/392397750506",
+          "name": "Bien-être"
+        },
+        {
+          "parent": "gid://shopify/Collection/392394932458",
+          "category": "gid://shopify/Collection/392395915498",
+          "name": "Accessoires"
         },
         {
           "category": "gid://shopify/Collection/392395915498"
