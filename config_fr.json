@@ -912,11 +912,13 @@
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392396931306"
+          "category": "gid://shopify/Collection/392396931306",
+          "name": "Hygiène"
         },
         {
           "parent": "gid://shopify/Collection/392395948266",
-          "category": "gid://shopify/Collection/392397226218"
+          "category": "gid://shopify/Collection/392397226218",
+          "name": "Mains"
         },
         {
           "category": "gid://shopify/Collection/392765440234"
