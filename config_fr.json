@@ -921,32 +921,9 @@
           "name": "Mains"
         },
         {
-          "category": "gid://shopify/Collection/392765440234"
-        },
-        {
           "parent": "gid://shopify/Collection/392395358442",
           "category": "gid://shopify/Collection/392395522282",
           "name": "Démaquillants"
-        },
-        {
-          "parent": "gid://shopify/Collection/392765440234",
-          "category": "gid://shopify/Collection/392765571306",
-          "name": "YEUX"
-        },
-        {
-          "parent": "gid://shopify/Collection/392765440234",
-          "category": "gid://shopify/Collection/392765604074",
-          "name": "TEINT"
-        },
-        {
-          "parent": "gid://shopify/Collection/392765440234",
-          "category": "gid://shopify/Collection/392765636842",
-          "name": "LÈVRES"
-        },
-        {
-          "parent": "gid://shopify/Collection/392765440234",
-          "category": "gid://shopify/Collection/393293693162",
-          "name": "ACCESSOIRES"
         },
         {
           "category": "gid://shopify/Collection/392398209258"
