@@ -1388,6 +1388,12 @@
         "iconFontFamily": "CupertinoIcons",
         "title": "Coffret sur-mesure"
       },
+      "category-mfrhvl5q6s": {
+        "category": "gid://shopify/Collection/392679358698",
+        "icon": "brightness",
+        "iconFontFamily": "CupertinoIcons",
+        "title": "Box"
+      },
       "category-promotion1": {
         "category": "gid://shopify/Collection/392679391466",
         "icon": "bolt",
@@ -1433,7 +1439,7 @@
       },
       {
         "type": "category-mfrhvl5q6s",
-        "show": true
+        "show": false
       },
       {
         "type": "category-promotion1",
