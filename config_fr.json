@@ -207,14 +207,14 @@
           "bannerWithProduct": false,
           "padding": 5,
           "defaultShowProduct": true,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app-coffret1.jpg?v=1725010697"
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/BUNDLE-app-1.jpg?v=1749028635"
         },
         {
           "products": [],
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "padding": 5,
           "productBundle": "789",
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app-coffret2.jpg?v=1725010697",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/BUNDLE-app-2.jpg?v=1749028636",
           "bannerWithProduct": false,
           "showSubcategory": false,
           "defaultShowProduct": false
@@ -1587,9 +1587,9 @@
       "title": "COFFRET SUR-MESURE",
       "groupName": "Coffret-sur-mesure",
       "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
-      "description": "Créez votre coffret personnalisé en choisissant un contenant + 4 ou 5 produits format voyage. Tous les produits de beauté font 100 ml (ou moins) et certains sont uniquement disponibles via cette offre (non vendus à l'unité sur la boutique). C'est le format parfait pour découvrir de nouveaux produits et pour voyager en toute tranquillité ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/photo-bundle.png?v=1714136754",
-      "backgroundImage": null,
+      "description": "Créez votre coffret personnalisé en sélectionnant notre trousse LACSKINCARE + 4 produits de votre choix. C'est le format idéal pour découvrir de nouveaux produits ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Photo-site-trousse-2.png?v=1748962531",
+      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere_bundle_2.svg?v=1748961306",
       "backgroundColor": "#BFBFC1",
       "forceMaxCanSelectFromMainProduct": [
         5,
@@ -1599,11 +1599,10 @@
       ],
       "blocks": [
         {
-          "title": "Sélectionnez l’offre \nde votre choix",
+          "title": "Sélectionnez l’offre \ntrousse",
           "maxCanSelect": 1,
           "productIds": [
-            "9077247541583",
-            "8830840537423"
+            "15403592778063"
           ],
           "collectionId": null
         },
