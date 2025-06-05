@@ -1588,10 +1588,9 @@
       "groupName": "Coffret-sur-mesure",
       "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
       "description": "Créez votre coffret personnalisé en sélectionnant notre trousse LACSKINCARE + 4 produits de votre choix. C'est le format idéal pour découvrir de nouveaux produits ! Alors n'attendez plus, et composez la routine idéale à offrir ou à s'offrir.",
-      "textColor": "000000",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Photo-site-trousse-2.png?v=1748962531",
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banniere_bundle_2.jpg?v=1749116761",
-      "backgroundColor": null,
+      "backgroundImage": null,
+      "backgroundColor": "#BFBFC1",
       "forceMaxCanSelectFromMainProduct": [
         4,
         4,
