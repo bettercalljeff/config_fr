@@ -1330,6 +1330,11 @@
         },
         {
           "parent": "gid://shopify/Collection/392394932458",
+          "category": "gid://shopify/Collection/392397717738",
+          "name": "SOLAIRES - ÉTÉ"
+        },
+        {
+          "parent": "gid://shopify/Collection/392394932458",
           "category": "gid://shopify/Collection/392395915498",
           "name": "ACCESSOIRES"
         },
