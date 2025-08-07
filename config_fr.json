@@ -195,42 +195,6 @@
       "backgroundColor": null
     },
     {
-      "parallax": false,
-      "enableParallax": false,
-      "isHorizontal": false,
-      "items": [
-        {
-          "products": [],
-          "productBundle": "000",
-          "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "padding": 5,
-          "defaultShowProduct": true,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/BUNDLE-app-1.jpg?v=1749028635"
-        },
-        {
-          "products": [],
-          "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
-          "padding": 5,
-          "productBundle": "000",
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/BUNDLE-app-2.jpg?v=1749028636",
-          "bannerWithProduct": false,
-          "showSubcategory": false,
-          "defaultShowProduct": false
-        }
-      ],
-      "design": "static",
-      "marginBottom": 0,
-      "parallaxImageRatio": 1.2,
-      "layout": "bannerImage",
-      "height": 0.3,
-      "marginTop": 10,
-      "marginRight": 10,
-      "fit": "fitHeight",
-      "marginLeft": 10
-    },
-    {
       "layout": "bannerImage",
       "design": "default",
       "fit": "cover",
