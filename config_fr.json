@@ -201,7 +201,7 @@
       "items": [
         {
           "products": [],
-          "productBundle": "789",
+          "productBundle": "000",
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "showSubcategory": false,
           "bannerWithProduct": false,
@@ -213,7 +213,7 @@
           "products": [],
           "url": "https://leavesandclouds.fr/pages/coffret-personnalisation",
           "padding": 5,
-          "productBundle": "789",
+          "productBundle": "000",
           "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/BUNDLE-app-2.jpg?v=1749028636",
           "bannerWithProduct": false,
           "showSubcategory": false,
@@ -1440,7 +1440,7 @@
       },
       {
         "type": "bundle-kqauv9j050",
-        "show": true
+        "show": false
       },
       {
         "type": "category-mfrhvl5q6s",
