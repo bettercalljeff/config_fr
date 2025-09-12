@@ -74,7 +74,7 @@
       "paddingLeft": 10.0,
       "paddingRight": 10.0,
       "paddingTop": 0,
-      "paddingBottom": 0,
+      "paddingBottom": 5.0,
       "height": 50,
       "rotate": [],
       "minWidth": 0.0,
