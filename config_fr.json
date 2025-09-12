@@ -102,43 +102,6 @@
       "useLightColor": false
     },
     {
-      "layout": "bannerImage",
-      "design": "swiper",
-      "fit": "cover",
-      "marginLeft": 0.0,
-      "items": [
-        {
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Braderie_ete_2025.png?v=1754897396",
-          "showSubcategory": false,
-          "products": [],
-          "category": "gid://shopify/Collection/668876177743"
-        }
-      ],
-      "marginBottom": 0.0,
-      "marginRight": 0.0,
-      "marginTop": 0.0,
-      "radius": 4.0,
-      "padding": 0.0,
-      "enableParallax": false,
-      "parallaxImageRatio": 1.2,
-      "isHorizontal": false,
-      "isSlider": true,
-      "autoPlay": false,
-      "intervalTime": 3,
-      "showNumber": false,
-      "isBlur": false,
-      "showBackground": false,
-      "upHeight": 0.0,
-      "parallax": false
-    },
-    {
-      "layout": "spacer",
-      "height": 0.0,
-      "useLightColor": false
-    },
-    {
       "featured": false,
       "isSnapping": true,
       "cardDesign": "card",
