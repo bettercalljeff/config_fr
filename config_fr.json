@@ -31,6 +31,7 @@
   "HorizonLayout": [
     {
       "showLogo": true,
+      "iconColor" : "ff92B9A5",
       "showSearch": false,
       "showNotification": true,
       "menuIcon": {
@@ -58,7 +59,7 @@
       "showSearch": false,
       "usePrimaryColor": true,
       "borderInput": false,
-      "title": "Livraison offerte en France et en Belgique dès 60€",
+      "title": "Le soin qui reste. Jour après jour. Flacon après flacon.\n✴",
       "type": "static",
       "backgroundColor": "ede6f4",
       "textColor": "000000",
@@ -80,8 +81,24 @@
       "layout": "header_text"
     },
     {
+      "layout": "featureVideo",
+      "name": "Product Demo Video",
+      "url": "https://cdn.shopify.com/videos/c/o/v/a9212fe684b04fb2812763ec1327fffa.mp4",
+      "autoPlay": true,
+      "aspectRatio": 1.7,
+      "enableTimeIndicator": false,
+      "tapToPlayPause": false,
+      "holdToPlayPause": false,
+      "marginLeft": 16.0,
+      "marginRight": 16.0,
+      "marginTop": 8.0,
+      "marginBottom": 0.0,
+      "borderRadius": 8.0,
+      "backgroundColor": "#F5F5F5"
+    },
+    {
       "layout": "spacer",
-      "height": 30.0,
+      "height": 16.0,
       "useLightColor": false
     },
     {
@@ -126,7 +143,7 @@
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-violet.jpg?v=1720701591",
+      "backgroundColor": "2B3E33",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -151,7 +168,10 @@
       "enableBottomAddToCart": false,
       "showOnlyImage": false,
       "enableRating": true,
-      "name": "Nouveautés 🌿",
+      "name": "Découvrir Cabale",
+      "cardColor" : "EEE0D3",
+      "textColor" : "92B9A5",
+      "actionTitle": "Tout voir",
       "hideTitle": false,
       "parallax": false,
       "vMargin": 30,
@@ -160,7 +180,7 @@
       "hideStore": false,
       "backgroundWidthMode": true,
       "backgroundBoxFit": "cover",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MjE1NjQxNDE4Ng==",
+      "category": "gid://shopify/Collection/666094534991",
       "imageBoxfit": "fill",
       "showCartIcon": true,
       "onSale": false,
@@ -218,11 +238,10 @@
     },
     {
       "featured": false,
-      "isProductRecommendation": true,
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundImage": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/fond-sliders-app-violet.jpg?v=1720701591",
+      "backgroundColor": "2B3E33",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -247,7 +266,10 @@
       "enableBottomAddToCart": false,
       "showOnlyImage": false,
       "enableRating": true,
-      "name": "Recommandations 🌿",
+      "name": "Reliques",
+      "cardColor" : "EEE0D3",
+      "textColor" : "92B9A5",
+      "actionTitle": "Tout voir",
       "hideTitle": false,
       "parallax": false,
       "vMargin": 30,
@@ -256,6 +278,7 @@
       "hideStore": false,
       "backgroundWidthMode": true,
       "backgroundBoxFit": "cover",
+      "category": "gid://shopify/Collection/665928991055",
       "imageBoxfit": "fill",
       "showCartIcon": true,
       "onSale": false,
@@ -264,7 +287,8 @@
       "showCartButtonWithQuantity": false,
       "showCountDown": false,
       "borderRadius": 12,
-      "cartIconRadius": 9
+      "cartIconRadius": 9,
+      "enableParallax": false
     },
     {
       "useLightColor": false,
@@ -501,6 +525,7 @@
         {
           "width": 20,
           "borderRadius": 2,
+          "backgroundColor": "92B9A5",
           "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/insta.png?v=1671104969",
           "height": 20,
           "navigator": {
@@ -513,45 +538,7 @@
         },
         {
           "borderRadius": 2,
-          "marginLeft": 0,
-          "navigator": {
-            "url_launch": "https://www.facebook.com/leavesandclouds/"
-          },
-          "width": 20,
-          "marginRight": 10,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/facebook.png?v=1671104968",
-          "textFontSize": 14,
-          "height": 20,
-          "useMaxWidth": false
-        },
-        {
-          "textFontSize": 14,
-          "useMaxWidth": false,
-          "borderRadius": 2,
-          "width": 20,
-          "marginRight": 10,
-          "navigator": {
-            "url_launch": "https://www.youtube.com/channel/UCYirBVpOU1n8BIdaN50C3Tw"
-          },
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/youtube2.png?v=1671104969",
-          "height": 20,
-          "marginLeft": 0
-        },
-        {
-          "borderRadius": 2,
-          "width": 20,
-          "useMaxWidth": false,
-          "marginRight": 10,
-          "textFontSize": 14,
-          "height": 20,
-          "marginLeft": 0,
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/twitter2.png?v=1671104969",
-          "navigator": {
-            "url_launch": "https://twitter.com/leavesandclouds"
-          }
-        },
-        {
-          "borderRadius": 2,
+          "backgroundColor": "92B9A5",
           "marginLeft": 0,
           "navigator": {
             "url_launch": "https://www.pinterest.fr/leavesandclouds/"
@@ -566,6 +553,7 @@
         {
           "marginLeft": 0,
           "borderRadius": 2,
+          "backgroundColor": "92B9A5",
           "width": 20,
           "textFontSize": 14,
           "height": 20,
@@ -578,6 +566,7 @@
         },
         {
           "useMaxWidth": false,
+          "backgroundColor": "92B9A5",
           "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/linkedin2.png?v=1671105070",
           "marginRight": 5,
           "marginLeft": 0,
@@ -603,8 +592,8 @@
     }
   ],
   "Setting": {
-    "FontHeader": "Poppins",
-    "FontFamily": "Roboto",
+    "FontHeader": "KumlienPro",
+    "FontFamily": "FormaDJRText",
     "ProductDetail": "simpleType",
     "MainColor": null,
     "ProductListLayout": "list",
@@ -629,7 +618,7 @@
         "elevation": null,
         "position": 0
       },
-      "color": null,
+      "color": "ff2b3e33",
       "colorIcon": "ebbdcebe",
       "colorCart": null,
       "enableOnTop": false,
@@ -666,28 +655,24 @@
     {
       "layout": "home",
       "pos": 100,
-      "icon": "home",
-      "fontFamily": "CupertinoIcons",
+      "icon": "assets/icons/tabs/icon_home_beige.svg",
       "key": "fzdri7s9q8"
     },
     {
       "layout": "search",
-      "icon": "search",
-      "fontFamily": "CupertinoIcons",
+      "icon": "assets/icons/tabs/icon_search_beige.svg",
       "pos": 200,
       "key": "c3sp79te3k"
     },
     {
-      "icon": "shopping_cart",
+      "icon": "assets/icons/tabs/icon_panier_beige.svg",
       "pos": 300,
-      "fontFamily": "CupertinoIcons",
       "layout": "cart",
       "key": "0w4iizhm9i"
     },
     {
-      "fontFamily": "CupertinoIcons",
+      "icon": "assets/icons/tabs/icon_favori_select.svg",
       "pos": 400,
-      "icon": "heart",
       "layout": "wishlist",
       "key": "78tae2ltlk"
     },
@@ -695,7 +680,6 @@
       "settings": [
         "wishlist",
         "notifications",
-        "darkTheme",
         "order",
         "rating",
         "web-86orcb0xvw",
@@ -703,12 +687,11 @@
         "web-hw6atkl6f2",
         "web-jy275wk99h"
       ],
-      "icon": "person",
+      "icon": "assets/icons/tabs/icon_user_beige.svg",
       "layout": "profile",
       "pos": 500,
       "key": "55mej5weu2",
       "background": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/app_bannieres_etc-bacgound.jpg?v=1671103028",
-      "fontFamily": "CupertinoIcons",
       "subGeneralSetting": {
         "web-hw6atkl6f2": {
           "iconFontFamily": "CupertinoIcons",
@@ -1297,6 +1280,7 @@
   ],
   "Drawer": {
     "key": "ghbzsbbf34",
+    "backgroundColor": "ff1D2424",
     "safeArea": false,
     "subDrawerItem": {
       "web-wv0hzetqjc": {
@@ -1328,6 +1312,18 @@
         "icon": "cloud",
         "iconFontFamily": "CupertinoIcons",
         "title": "LACSKINCARE"
+      },
+      "category-Découvrir": {
+        "category": "gid://shopify/Collection/666094534991",
+        "icon": "cloud",
+        "iconFontFamily": "CupertinoIcons",
+        "title": "Découvrir Cabale"
+      },
+      "category-Reliques": {
+        "category": "gid://shopify/Collection/665928991055",
+        "icon": "cloud",
+        "iconFontFamily": "CupertinoIcons",
+        "title": "Reliques"
       },
       "bundle-kqauv9j050": {
         "webUrl": "https://leavesandclouds.fr/pages/coffret-personnalisation",
@@ -1369,22 +1365,31 @@
       "marginRight": 0,
       "marginTop": 60,
       "marginBottom": 10,
-      "boxFit": "contain"
+      "boxFit": "contain",
+      "iconColor" : "ff00000"
     },
     "logo": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logomenu.png?v=1671105143",
-    "logoDark": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/Logo_LAC_blanc.png?v=1690377239",
+    "logoDark": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/LOGO_CABALE_BASELINE_beige.png?v=1756130672",
     "items": [
       {
         "type": "home",
         "show": true
       },
       {
-        "type": "categories",
+        "type": "category-Découvrir",
         "show": true
       },
       {
-        "type": "category-lacskincare",
+        "type": "category-Reliques",
         "show": true
+      },
+      {
+        "type": "categories",
+        "show": false
+      },
+      {
+        "type": "category-lacskincare",
+        "show": false
       },
       {
         "type": "bundle-kqauv9j050",
@@ -1396,19 +1401,19 @@
       },
       {
         "type": "category-promotion1",
-        "show": true
+        "show": false
       },
       {
         "type": "brand-4234234",
-        "show": true
+        "show": false
       },
       {
         "type": "web-fide",
-        "show": true
+        "show": false
       },
       {
         "type": "blog",
-        "show": true
+        "show": false
       },
       {
         "type": "cart",
@@ -1416,10 +1421,12 @@
       },
       {
         "type": "profile",
+        "color": "92B9A5",
         "show": true
       },
       {
         "type": "login",
+        "color": "92B9A5",
         "show": true
       },
       {
@@ -1431,7 +1438,7 @@
         "show": false
       }
     ],
-    "iconColor": "FFAAB9AB"
+    "iconColor": "ff00000"
   },
   "AppBar": {
     "showOnScreens": [],
@@ -1653,10 +1660,8 @@
     }
   ],
   "categoriesSuggestions": [
-    "gid://shopify/Collection/392156414186",
-    "gid://shopify/Collection/394601300202",
-    "gid://shopify/Collection/392394932458",
-    "gid://shopify/Collection/392399716586"
+
+
   ],
   "maintainMode": {
     "forceMaintain": false,
