@@ -1112,18 +1112,6 @@
         "iconFontFamily": "CupertinoIcons",
         "title": "Donation"
       },
-      "web-fide": {
-        "webUrl": "https://leavesandclouds.fr/pages/fidelite-parrainage",
-        "webViewMode": true,
-        "requiredLogin": false,
-        "enableForward": false,
-        "enableBackward": false,
-        "enableClose": true,
-        "script": "",
-        "icon": "flame",
-        "iconFontFamily": "CupertinoIcons",
-        "title": "Fidélité"
-      },
       "category-lacskincare": {
         "category": "gid://shopify/Collection/609871298895",
         "icon": "cloud",
@@ -1141,6 +1129,18 @@
         "icon": "cloud",
         "iconFontFamily": "CupertinoIcons",
         "title": "Reliques"
+      },
+      "web-fide": {
+        "webUrl": "https://leavesandclouds.fr/pages/fidelite-parrainage",
+        "webViewMode": true,
+        "requiredLogin": false,
+        "enableForward": false,
+        "enableBackward": false,
+        "enableClose": true,
+        "script": "",
+        "icon": "flame",
+        "iconFontFamily": "CupertinoIcons",
+        "title": "Fidélité"
       },
       "bundle-kqauv9j050": {
         "webUrl": "https://leavesandclouds.fr/pages/coffret-personnalisation",
@@ -1226,7 +1226,7 @@
       },
       {
         "type": "web-fide",
-        "show": false
+        "show": true
       },
       {
         "type": "blog",
