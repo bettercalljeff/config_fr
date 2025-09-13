@@ -156,6 +156,21 @@
       "enableParallax": false
     },
     {
+      "layout": "bannerImage",
+      "design": "default",
+      "fit": "cover",
+      "marginLeft": 15.0,
+      "items": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/section_text.png?v=1757746949",
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "showSubcategory": false,
+          "product": ""
+        }
+      ],
+    {
       "layout": "spacer",
       "useLightColor": false,
       "height": 10,
