@@ -31,7 +31,7 @@
   "HorizonLayout": [
     {
       "showLogo": true,
-      "iconColor" : "ff92B9A5",
+      "iconColor": "ff92B9A5",
       "showSearch": false,
       "showNotification": true,
       "menuIcon": {
@@ -132,8 +132,8 @@
       "showOnlyImage": false,
       "enableRating": true,
       "name": "Découvrir Cabale",
-      "cardColor" : "EEE0D3",
-      "textColor" : "92B9A5",
+      "cardColor": "EEE0D3",
+      "textColor": "92B9A5",
       "actionTitle": "Tout voir",
       "hideTitle": false,
       "parallax": false,
@@ -169,7 +169,8 @@
           "showSubcategory": false,
           "product": "7504509108458"
         }
-      ],
+      ]
+    },
     {
       "layout": "spacer",
       "useLightColor": false,
@@ -245,8 +246,8 @@
       "showOnlyImage": false,
       "enableRating": true,
       "name": "Reliques",
-      "cardColor" : "EEE0D3",
-      "textColor" : "92B9A5",
+      "cardColor": "EEE0D3",
+      "textColor": "92B9A5",
       "actionTitle": "Tout voir",
       "hideTitle": false,
       "parallax": false,
@@ -273,6 +274,372 @@
       "height": 20,
       "layout": "spacer",
       "backgroundColor": null
+    },
+    {
+      "layout": "categoryCarousel",
+      "name": "Shop by categories",
+      "marginLeft": 8.0,
+      "marginRight": 8.0,
+      "marginTop": 16.0,
+      "marginBottom": 16.0,
+      "headerConfig": {
+        "height": 40.0,
+        "padding": 12.0,
+        "fontSize": 14.0,
+        "fontWeight": "w600",
+        "activeColor": "#FF6B35",
+        "inactiveColor": "#9E9E9E",
+        "showIndicator": true,
+        "indicatorHeight": 2.0,
+        "indicatorColor": "#FF6B35",
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 4.0
+      },
+      "carouselConfig": {
+        "itemSnapping": true,
+        "heightRatio": 0.5,
+        "itemExtent": 250.0,
+        "useHeightRatio": true,
+        "padding": 4.0,
+        "elevation": 4.0,
+        "shrinkExtent": 10.0,
+        "scrollDirection": "horizontal",
+        "enableSplash": true,
+        "marginLeft": 0.0,
+        "marginRight": 0.0,
+        "marginTop": 8.0,
+        "marginBottom": 8.0,
+        "titleFontSize": 20.0,
+        "subtitleFontSize": 16.0,
+        "descriptionFontSize": 14.0,
+        "titleFontWeight": "bold",
+        "subtitleFontWeight": "w500",
+        "descriptionFontWeight": "normal"
+      },
+      "categories": [
+        {
+          "id": "featured1",
+          "title": "Featured",
+          "items": [
+            {
+              "title": "Item 1",
+              "subtitle": "Subtitle 1",
+              "description": "This is the first item",
+              "imageUrl": "https://picsum.photos/800/600?random=1"
+            },
+            {
+              "title": "Item 2 with Video",
+              "subtitle": "Subtitle 2",
+              "description": "This is the second item",
+              "videoUrl": "https://media.cleanshot.cloud/media/33180/xLi1SBZp7H6zeV7Ieo1NophNWOhvNoP07kI9l59Z.mp4?response-content-disposition=attachment%3Bfilename%3DFocus%2520LACSKINCARE.mp4&Expires=1757878980&Signature=mYLOFoYMc0sVQo3OEBqm2mRtirn~Xa7tikexlOH4F154njd9So1k-0nflBImJNR~AryMvAdbK9aKIE7Hvwt81ms8W4FVH1Qv0jOnrJiWOlmxQhWVBvCkPkjqeJohONGEnXZmo49X3uOWEn8gy6mn7rKZbgVxnGWyIC1MdRLI0JKCiLnlvkZ55D4ktA4s~3eC2WbjclCB9PbvCR3V0zIS2X5qh4azu23hrw0U7NMze2aQwd2FZ~bDh8dpozmWPsX92kFQniHZ225zZrhZepMf9OfkLdhGDKQlZypqvL4TpEVKk6iDIA-gtt4pJ73O3soVEgXDbhmv7zTCdU427mDl-w__&Key-Pair-Id=K269JMAT9ZF4GZ",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Item 3",
+              "subtitle": "Subtitle 3",
+              "description": "This is the third item",
+              "imageUrl": "https://picsum.photos/800/600?random=3"
+            },
+            {
+              "title": "Item 4",
+              "subtitle": "Subtitle 4",
+              "description": "This is the fourth item",
+              "imageUrl": "https://picsum.photos/800/600?random=4"
+            },
+            {
+              "title": "Item 5",
+              "subtitle": "Subtitle 5",
+              "description": "This is the fifth item",
+              "imageUrl": "https://picsum.photos/800/600?random=5"
+            },
+            {
+              "title": "Item 6",
+              "subtitle": "Subtitle 6",
+              "description": "This is the sixth item",
+              "imageUrl": "https://picsum.photos/800/600?random=6"
+            },
+            {
+              "title": "Item 7",
+              "subtitle": "Subtitle 7",
+              "description": "This is the seventh item",
+              "imageUrl": "https://picsum.photos/800/600?random=7"
+            }
+          ]
+        },
+        {
+          "id": "trending",
+          "title": "Trending",
+          "items": [
+            {
+              "title": "Trending Now",
+              "subtitle": "Hot Items",
+              "description": "What everyone is talking about",
+              "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800",
+              "action": "navigate",
+              "actionData": {
+                "type": "category",
+                "category": "trending"
+              }
+            }
+          ]
+        },
+        {
+          "id": "new",
+          "title": "New",
+          "items": [
+            {
+              "title": "New Arrivals",
+              "subtitle": "Just In",
+              "description": "Fresh products just added to our collection",
+              "imageUrl": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=800",
+              "action": "navigate",
+              "actionData": {
+                "type": "category",
+                "category": "new-arrivals"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "categoryCarousel",
+      "name": "Shop by categories",
+      "marginLeft": 8.0,
+      "marginRight": 8.0,
+      "marginTop": 16.0,
+      "marginBottom": 16.0,
+      "headerConfig": {
+        "height": 40.0,
+        "padding": 12.0,
+        "fontSize": 14.0,
+        "fontWeight": "w600",
+        "activeColor": "#FF6B35",
+        "inactiveColor": "#9E9E9E",
+        "showIndicator": true,
+        "indicatorHeight": 2.0,
+        "indicatorColor": "#FF6B35",
+        "backgroundColor": "#92B9A5",
+        "borderRadius": 4.0
+      },
+      "carouselConfig": {
+        "useWeightedLayout": true,
+        "flexWeights": [2, 5, 2],
+        "itemSnapping": true,
+        "heightRatio": 0.5,
+        "itemExtent": 250.0,
+        "useHeightRatio": true,
+        "padding": 4.0,
+        "elevation": 4.0,
+        "shrinkExtent": 10.0,
+        "scrollDirection": "horizontal",
+        "enableSplash": true,
+        "marginLeft": 0.0,
+        "marginRight": 0.0,
+        "marginTop": 8.0,
+        "marginBottom": 8.0,
+        "titleFontSize": 20.0,
+        "subtitleFontSize": 16.0,
+        "descriptionFontSize": 14.0,
+        "titleFontWeight": "bold",
+        "subtitleFontWeight": "w500",
+        "descriptionFontWeight": "normal"
+      },
+      "categories": [
+        {
+          "id": "featured1",
+          "title": "Featured",
+          "items": [
+            {
+              "title": "Item 1",
+              "subtitle": "Subtitle 1",
+              "description": "This is the first item",
+              "imageUrl": "https://picsum.photos/800/600?random=8"
+            },
+            {
+              "title": "Item Product 2",
+              "subtitle": "Subtitle 2",
+              "description": "This is the second item",
+              "videoUrl": "https://media.cleanshot.cloud/media/33180/xLi1SBZp7H6zeV7Ieo1NophNWOhvNoP07kI9l59Z.mp4?response-content-disposition=attachment%3Bfilename%3DFocus%2520LACSKINCARE.mp4&Expires=1757878980&Signature=mYLOFoYMc0sVQo3OEBqm2mRtirn~Xa7tikexlOH4F154njd9So1k-0nflBImJNR~AryMvAdbK9aKIE7Hvwt81ms8W4FVH1Qv0jOnrJiWOlmxQhWVBvCkPkjqeJohONGEnXZmo49X3uOWEn8gy6mn7rKZbgVxnGWyIC1MdRLI0JKCiLnlvkZ55D4ktA4s~3eC2WbjclCB9PbvCR3V0zIS2X5qh4azu23hrw0U7NMze2aQwd2FZ~bDh8dpozmWPsX92kFQniHZ225zZrhZepMf9OfkLdhGDKQlZypqvL4TpEVKk6iDIA-gtt4pJ73O3soVEgXDbhmv7zTCdU427mDl-w__&Key-Pair-Id=K269JMAT9ZF4GZ",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Item 3",
+              "subtitle": "Subtitle 3",
+              "description": "This is the third item",
+              "imageUrl": "https://picsum.photos/800/600?random=10"
+            },
+            {
+              "title": "Item 4",
+              "subtitle": "Subtitle 4",
+              "description": "This is the fourth item",
+              "imageUrl": "https://picsum.photos/800/600?random=11"
+            },
+            {
+              "title": "Item 5",
+              "subtitle": "Subtitle 5",
+              "description": "This is the fifth item",
+              "imageUrl": "https://picsum.photos/800/600?random=12"
+            },
+            {
+              "title": "Item 6",
+              "subtitle": "Subtitle 6",
+              "description": "This is the sixth item",
+              "imageUrl": "https://picsum.photos/800/600?random=13"
+            }
+          ]
+        },
+        {
+          "id": "trending",
+          "title": "Trending",
+          "items": [
+            {
+              "title": "Trending Now",
+              "subtitle": "Hot Items",
+              "description": "What everyone is talking about",
+              "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800",
+              "action": "navigate",
+              "actionData": {
+                "type": "category",
+                "category": "trending"
+              }
+            }
+          ]
+        },
+        {
+          "id": "new",
+          "title": "New",
+          "items": [
+            {
+              "title": "New Arrivals",
+              "subtitle": "Just In",
+              "description": "Fresh products just added to our collection",
+              "imageUrl": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=800",
+              "action": "navigate",
+              "actionData": {
+                "type": "category",
+                "category": "new-arrivals"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "carousel",
+      "name": "Simple Carousel",
+      "itemSnapping": true,
+      "heightRatio": 0.5,
+      "itemExtent": 250.0,
+      "titleFontSize": 24.0,
+      "textColor": "#92B9A5",
+      "items": [
+        {
+          "title": "Item 1",
+          "subtitle": "Subtitle 1",
+          "description": "This is the first item",
+          "imageUrl": "https://picsum.photos/800/600?random=1"
+        },
+        {
+          "title": "Item 2",
+          "subtitle": "Subtitle 2",
+          "description": "This is the second item",
+          "videoUrl": "https://media.cleanshot.cloud/media/33180/xLi1SBZp7H6zeV7Ieo1NophNWOhvNoP07kI9l59Z.mp4?response-content-disposition=attachment%3Bfilename%3DFocus%2520LACSKINCARE.mp4&Expires=1757878980&Signature=mYLOFoYMc0sVQo3OEBqm2mRtirn~Xa7tikexlOH4F154njd9So1k-0nflBImJNR~AryMvAdbK9aKIE7Hvwt81ms8W4FVH1Qv0jOnrJiWOlmxQhWVBvCkPkjqeJohONGEnXZmo49X3uOWEn8gy6mn7rKZbgVxnGWyIC1MdRLI0JKCiLnlvkZ55D4ktA4s~3eC2WbjclCB9PbvCR3V0zIS2X5qh4azu23hrw0U7NMze2aQwd2FZ~bDh8dpozmWPsX92kFQniHZ225zZrhZepMf9OfkLdhGDKQlZypqvL4TpEVKk6iDIA-gtt4pJ73O3soVEgXDbhmv7zTCdU427mDl-w__&Key-Pair-Id=K269JMAT9ZF4GZ",
+          "autoPlay": true,
+          "looping": true,
+          "mute": true,
+          "showControls": false
+        },
+        {
+          "title": "Item 3",
+          "subtitle": "Subtitle 3",
+          "description": "This is the third item",
+          "imageUrl": "https://picsum.photos/800/600?random=3"
+        },
+        {
+          "title": "Item 4",
+          "subtitle": "Subtitle 4",
+          "description": "This is the fourth item",
+          "imageUrl": "https://picsum.photos/800/600?random=4"
+        },
+        {
+          "title": "Item 5",
+          "subtitle": "Subtitle 5",
+          "description": "This is the fifth item",
+          "imageUrl": "https://picsum.photos/800/600?random=5"
+        },
+        {
+          "title": "Item 6",
+          "subtitle": "Subtitle 6",
+          "description": "This is the sixth item",
+          "imageUrl": "https://picsum.photos/800/600?random=6"
+        },
+        {
+          "title": "Item 7",
+          "subtitle": "Subtitle 7",
+          "description": "This is the seventh item",
+          "imageUrl": "https://picsum.photos/800/600?random=7"
+        }
+      ]
+    },
+    {
+      "layout": "carousel",
+      "name": "Simple Carousel 2",
+      "itemSnapping": true,
+      "useWeightedLayout": true,
+      "flexWeights": [2, 5, 2],
+      "heightRatio": 0.5,
+      "itemExtent": 250.0,
+      "titleFontSize": 24.0,
+      "textColor": "#92B9A5",
+      "items": [
+        {
+          "title": "Item 1",
+          "subtitle": "Subtitle 1",
+          "description": "This is the first item",
+          "imageUrl": "https://picsum.photos/800/600?random=8"
+        },
+        {
+          "title": "Product 2",
+          "subtitle": "Subtitle 2",
+          "description": "This is the second item",
+          "videoUrl": "https://media.cleanshot.cloud/media/33180/xLi1SBZp7H6zeV7Ieo1NophNWOhvNoP07kI9l59Z.mp4?response-content-disposition=attachment%3Bfilename%3DFocus%2520LACSKINCARE.mp4&Expires=1757878980&Signature=mYLOFoYMc0sVQo3OEBqm2mRtirn~Xa7tikexlOH4F154njd9So1k-0nflBImJNR~AryMvAdbK9aKIE7Hvwt81ms8W4FVH1Qv0jOnrJiWOlmxQhWVBvCkPkjqeJohONGEnXZmo49X3uOWEn8gy6mn7rKZbgVxnGWyIC1MdRLI0JKCiLnlvkZ55D4ktA4s~3eC2WbjclCB9PbvCR3V0zIS2X5qh4azu23hrw0U7NMze2aQwd2FZ~bDh8dpozmWPsX92kFQniHZ225zZrhZepMf9OfkLdhGDKQlZypqvL4TpEVKk6iDIA-gtt4pJ73O3soVEgXDbhmv7zTCdU427mDl-w__&Key-Pair-Id=K269JMAT9ZF4GZ",
+          "autoPlay": true,
+          "looping": true,
+          "mute": true,
+          "showControls": false
+        },
+        {
+          "title": "Item 3",
+          "subtitle": "Subtitle 3",
+          "description": "This is the third item",
+          "imageUrl": "https://picsum.photos/800/600?random=10"
+        },
+        {
+          "title": "Item 4",
+          "subtitle": "Subtitle 4",
+          "description": "This is the fourth item",
+          "imageUrl": "https://picsum.photos/800/600?random=11"
+        },
+        {
+          "title": "Item 5",
+          "subtitle": "Subtitle 5",
+          "description": "This is the fifth item",
+          "imageUrl": "https://picsum.photos/800/600?random=12"
+        },
+        {
+          "title": "Item 6",
+          "subtitle": "Subtitle 6",
+          "description": "This is the sixth item",
+          "imageUrl": "https://picsum.photos/800/600?random=13"
+        }
+      ]
     },
     {
       "layout": "bannerImage",
@@ -1198,7 +1565,7 @@
       "marginTop": 60,
       "marginBottom": 10,
       "boxFit": "contain",
-      "iconColor" : "ff00000"
+      "iconColor": "ff00000"
     },
     "logo": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logomenu.png?v=1671105143",
     "logoDark": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/LOGO_CABALE_BASELINE_beige.png?v=1756130672",
@@ -1491,10 +1858,7 @@
       ]
     }
   ],
-  "categoriesSuggestions": [
-
-
-  ],
+  "categoriesSuggestions": [],
   "maintainMode": {
     "forceMaintain": false,
     "startTime": "2023-12-25T23:59:00+0100",
