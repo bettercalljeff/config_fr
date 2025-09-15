@@ -59,7 +59,7 @@
       "showSearch": false,
       "usePrimaryColor": true,
       "borderInput": false,
-      "title": "Livraison relais offerte dès 60€ d'achats (FR & BE)",
+      "title": "Livraison relais offerte dès 60€ d'achats",
       "type": "static",
       "backgroundColor": "92B9A5",
       "textColor": "000000",
@@ -154,6 +154,12 @@
       "borderRadius": 12,
       "cartIconRadius": 9,
       "enableParallax": false
+    },
+    {
+      "layout": "spacer",
+      "useLightColor": false,
+      "height": 10,
+      "backgroundColor": null
     },
     {
       "layout": "bannerImage",
