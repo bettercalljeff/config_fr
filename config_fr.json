@@ -329,7 +329,7 @@
               "videoUrl": "https://cdn.shopify.com/videos/c/o/v/2c53e30384b54b7a9caf865b72f63149.mp4",
               "autoPlay": true,
               "looping": true,
-              "mute": false,
+              "mute": true,
               "showControls": false
             },
             {
