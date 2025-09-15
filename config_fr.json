@@ -346,7 +346,7 @@
               "title": "Item 3",
               "subtitle": "Subtitle 3",
               "description": "This is the third item",
-              "imageUrl": "https://picsum.photos/800/600?random=3"
+              "imageUrl": "https://picsum.photos/800/600?random=3",
               "videoUrl": "https://cdn.shopify.com/videos/c/o/v/51049bd7ceb746be97334202c857d0c8.mp4",
               "autoPlay": true,
               "looping": true,
@@ -487,7 +487,7 @@
               "title": "Item 3",
               "subtitle": "Subtitle 3",
               "description": "This is the third item",
-              "imageUrl": "https://picsum.photos/800/600?random=3"
+              "imageUrl": "https://picsum.photos/800/600?random=3",
               "videoUrl": "https://cdn.shopify.com/videos/c/o/v/51049bd7ceb746be97334202c857d0c8.mp4",
               "autoPlay": true,
               "looping": true,
