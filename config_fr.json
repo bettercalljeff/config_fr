@@ -63,7 +63,7 @@
       "type": "static",
       "backgroundColor": "92B9A5",
       "textColor": "000000",
-      "alignment": "centerLeft",
+      "alignment": "center",
       "fontWeight": 300,
       "fontSize": 16,
       "textOpacity": 1,
