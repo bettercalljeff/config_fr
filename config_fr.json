@@ -158,7 +158,7 @@
     {
       "layout": "bannerImage",
       "design": "default",
-      "fit": "cover",
+      "fit": "contain",
       "marginLeft": 15.0,
       "items": [
         {
