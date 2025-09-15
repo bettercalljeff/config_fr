@@ -277,7 +277,7 @@
     },
     {
       "layout": "categoryCarousel",
-      "name": "Shop by categories",
+      "name": "Carrousel de vidéos",
       "marginLeft": 8.0,
       "marginRight": 8.0,
       "marginTop": 16.0,
@@ -319,13 +319,18 @@
       "categories": [
         {
           "id": "featured1",
-          "title": "Featured",
+          "title": "Utilisation",
           "items": [
             {
               "title": "Item 1",
               "subtitle": "Subtitle 1",
               "description": "This is the first item",
-              "imageUrl": "https://picsum.photos/800/600?random=1"
+              "imageUrl": "https://picsum.photos/800/600?random=1",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/fd99a811723a46048efbe7fda703b70f.mp4",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
             },
             {
               "title": "Item 2 with Video",
@@ -371,7 +376,7 @@
         },
         {
           "id": "trending",
-          "title": "Trending",
+          "title": "Texture",
           "items": [
             {
               "title": "Trending Now",
@@ -388,7 +393,7 @@
         },
         {
           "id": "new",
-          "title": "New",
+          "title": "Communauté",
           "items": [
             {
               "title": "New Arrivals",
