@@ -59,7 +59,7 @@
       "showSearch": false,
       "usePrimaryColor": true,
       "borderInput": false,
-      "title": "\u2734\uFE0E LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE) \u2734\uFE0E",
+      "title": "LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FR ET BE)",
       "type": "static",
       "backgroundColor": "92B9A5",
       "textColor": "000000",
@@ -79,22 +79,6 @@
       "rotate": [],
       "minWidth": 0.0,
       "layout": "header_text"
-    },
-    {
-      "layout": "bannerImage",
-      "design": "default",
-      "fit": "contain",
-      "marginLeft": 15.0,
-      "items": [
-        {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banner.png?v=1757938223",
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "products": [],
-          "showSubcategory": false,
-          "product": "7504509108458"
-        }
-      ]
     },
     {
       "layout": "featureVideo",
@@ -184,7 +168,7 @@
       "marginLeft": 15.0,
       "items": [
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/text-test-large.png?v=1757938222",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/test-texte-small.png?v=1757938221",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [],
