@@ -81,6 +81,22 @@
       "layout": "header_text"
     },
     {
+      "layout": "bannerImage",
+      "design": "default",
+      "fit": "contain",
+      "marginLeft": 15.0,
+      "items": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/banner.png?v=1757938223",
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "showSubcategory": false,
+          "product": "7504509108458"
+        }
+      ]
+    },
+    {
       "layout": "featureVideo",
       "name": "Product Demo Video",
       "url": "https://cdn.shopify.com/videos/c/o/v/a9212fe684b04fb2812763ec1327fffa.mp4",
@@ -168,7 +184,7 @@
       "marginLeft": 15.0,
       "items": [
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/section_text.png?v=1757746949",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/text-test-large.png?v=1757938222",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [],
