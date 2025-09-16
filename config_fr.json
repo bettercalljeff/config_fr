@@ -284,9 +284,9 @@
     {
       "layout": "featureVideo",
       "name": "Bandeau vidéo",
-      "url": "https://cdn.shopify.com/videos/c/o/v/e8da4ca8f5184b69b95b63ea117fa6b1.mp4",
+      "url": "https://cdn.shopify.com/videos/c/o/v/e4db2bfa6fcf460d8ffbc1642aec9843.mp4",
       "autoPlay": true,
-      "aspectRatio": 4.4,
+      "aspectRatio": 5.5,
       "enableTimeIndicator": false,
       "tapToPlayPause": false,
       "holdToPlayPause": false,
