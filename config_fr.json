@@ -151,8 +151,8 @@
       "rows": 1,
       "showCartButtonWithQuantity": false,
       "showCountDown": false,
-      "borderRadius": 12,
-      "cartIconRadius": 9,
+      "borderRadius": 0,
+      "cartIconRadius": 0,
       "enableParallax": false
     },
     {
@@ -1279,7 +1279,7 @@
   ],
   "Drawer": {
     "key": "ghbzsbbf34",
-    "backgroundColor": "ff1D2424",
+    "backgroundColor": "1D2D24",
     "safeArea": false,
     "subDrawerItem": {
       "web-wv0hzetqjc": {
@@ -1505,7 +1505,7 @@
         "marginBottom": 10.0,
         "marginRight": 0.0,
         "marginTop": 12.0,
-        "radius": 4.0,
+        "radius": 0.0,
         "padding": 0.0,
         "enableParallax": false,
         "parallaxImageRatio": 1.2,
@@ -1623,7 +1623,7 @@
         "marginBottom": 10.0,
         "marginRight": 0.0,
         "marginTop": 12.0,
-        "radius": 4.0,
+        "radius": 0.0,
         "padding": 0.0,
         "enableParallax": false,
         "parallaxImageRatio": 1.2,
