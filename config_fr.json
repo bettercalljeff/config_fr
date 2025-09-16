@@ -286,7 +286,7 @@
       "name": "Bandeau vidéo",
       "url": "https://cdn.shopify.com/videos/c/o/v/e8da4ca8f5184b69b95b63ea117fa6b1.mp4",
       "autoPlay": true,
-      "aspectRatio": 8.0,
+      "aspectRatio": 4.4,
       "enableTimeIndicator": false,
       "tapToPlayPause": false,
       "holdToPlayPause": false,
