@@ -246,7 +246,7 @@
         "colorOpacity": 0.1
       },
       "showQuantity": false,
-      "vPadding": 6,
+      "vPadding": 3,
       "parallaxImageRatio": 1.2,
       "enableBottomAddToCart": false,
       "showOnlyImage": false,
@@ -257,7 +257,7 @@
       "actionTitle": "Tout voir",
       "hideTitle": false,
       "parallax": false,
-      "vMargin": 30,
+      "vMargin": 15,
       "hidePrice": false,
       "columns": 0,
       "hideStore": false,
@@ -271,8 +271,8 @@
       "rows": 1,
       "showCartButtonWithQuantity": false,
       "showCountDown": false,
-      "borderRadius": 12,
-      "cartIconRadius": 9,
+      "borderRadius": 0,
+      "cartIconRadius": 0,
       "enableParallax": false
     },
     {
