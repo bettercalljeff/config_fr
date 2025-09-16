@@ -644,7 +644,7 @@
       "marginRight": 0,
       "radiusBottomRight": 0,
       "radiusTopLeft": 0,
-      "isSafeArea": true,
+      "isSafeArea": false,
       "radiusBottomLeft": 0
     },
     "StickyHeader": false,
