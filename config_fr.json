@@ -257,7 +257,7 @@
       "actionTitle": "Tout voir",
       "hideTitle": false,
       "parallax": false,
-      "vMargin": 15,
+      "vMargin": 0,
       "hidePrice": false,
       "columns": 0,
       "hideStore": false,
