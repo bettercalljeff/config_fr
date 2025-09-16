@@ -226,7 +226,7 @@
       "isSnapping": true,
       "cardDesign": "card",
       "hPadding": 8,
-      "backgroundColor": "1D2D24",
+      "backgroundColor": "1C2D24",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
       "spaceWidth": 35,
@@ -253,7 +253,7 @@
       "enableRating": true,
       "name": "Reliques",
       "cardColor": "EEE0D3",
-      "textColor": "1D2D24",
+      "textColor": "1C2D24",
       "actionTitle": "Tout voir",
       "hideTitle": false,
       "parallax": false,
@@ -617,7 +617,7 @@
         "elevation": 0,
         "position": 0
       },
-      "color": "1D2D24",
+      "color": "1C2D24",
       "colorIcon": "ebbdcebe",
       "colorCart": "92B9A6",
       "enableOnTop": false,
@@ -1279,7 +1279,7 @@
   ],
   "Drawer": {
     "key": "ghbzsbbf34",
-    "backgroundColor": "1D2D24",
+    "backgroundColor": "1C2D24",
     "safeArea": false,
     "subDrawerItem": {
       "web-wv0hzetqjc": {
