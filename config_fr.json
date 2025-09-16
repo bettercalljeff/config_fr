@@ -299,7 +299,7 @@
         "indicatorHeight": 2.0,
         "indicatorColor": "#FF6B35",
         "backgroundColor": "#FFFFFF",
-        "borderRadius": 4.0
+        "borderRadius": 0.0
       },
       "carouselConfig": {
         "itemSnapping": true,
