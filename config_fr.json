@@ -89,11 +89,11 @@
       "enableTimeIndicator": false,
       "tapToPlayPause": false,
       "holdToPlayPause": false,
-      "marginLeft": 16.0,
-      "marginRight": 16.0,
+      "marginLeft": 0,
+      "marginRight": 0,
       "marginTop": 8.0,
       "marginBottom": 0.0,
-      "borderRadius": 8.0,
+      "borderRadius": 0,
       "backgroundColor": "#F5F5F5"
     },
     {
