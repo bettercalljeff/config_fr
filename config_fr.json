@@ -229,7 +229,7 @@
       "backgroundColor": "1C2D24",
       "hideEmptyProductListRating": false,
       "backgroundRadius": 0,
-      "spaceWidth": 35,
+      "spaceWidth": 10,
       "layout": "twoColumn",
       "imageRatio": 1,
       "hMargin": 9,
