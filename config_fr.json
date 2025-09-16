@@ -186,7 +186,7 @@
     {
       "layout": "bannerImage",
       "design": "default",
-      "fit": "cover",
+      "fit": "Contain",
       "marginLeft": 0.0,
       "items": [
         {
