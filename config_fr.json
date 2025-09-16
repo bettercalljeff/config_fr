@@ -187,10 +187,10 @@
       "layout": "bannerImage",
       "design": "default",
       "fit": "cover",
-      "marginLeft": 15.0,
+      "marginLeft": 0.0,
       "items": [
         {
-          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/carte-cadeau-app-violet.jpg?v=1720701591",
+          "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/E-carte-cadeau_format3_5_mail1.png?v=1757962607",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "products": [],
@@ -199,9 +199,9 @@
         }
       ],
       "marginBottom": 0.0,
-      "marginRight": 15.0,
+      "marginRight": 0.0,
       "marginTop": 0.0,
-      "radius": 4.0,
+      "radius": 0.0,
       "padding": 0.0,
       "enableParallax": false,
       "parallaxImageRatio": 1.2,
