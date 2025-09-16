@@ -598,7 +598,7 @@
         "floatingType": "rectangle",
         "width": null,
         "location": null,
-        "elevation": null,
+        "elevation": 0,
         "position": 0
       },
       "color": "1D2D24",
@@ -624,7 +624,7 @@
         "tabPosition": "bottom",
         "verticalPadding": null
       },
-      "paddingTop": 0,
+      "paddingTop": 8,
       "marginRight": 0,
       "radiusBottomRight": 0,
       "radiusTopLeft": 0,
