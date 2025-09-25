@@ -1287,6 +1287,12 @@
         "iconFontFamily": "CupertinoIcons",
         "title": "Reliques"
       },
+      "category-cadeau": {
+        "category": "gid://shopify/Collection/7504509108458",
+        "icon": "cloud",
+        "iconFontFamily": "CupertinoIcons",
+        "title": "Carte Cadeau"
+      },
       "web-fide": {
         "webUrl": "https://leavesandclouds.fr/pages/fidelite-parrainage",
         "webViewMode": true,
@@ -1362,8 +1368,8 @@
         "show": false
       },
       {
-        "type": "category-lacskincare",
-        "show": false
+        "type": "category-cadeau",
+        "show": true
       },
       {
         "type": "bundle-kqauv9j050",
