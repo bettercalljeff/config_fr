@@ -194,7 +194,7 @@
           "defaultShowProduct": false,
           "products": [],
           "showSubcategory": false,
-          "product": "7504509108458"
+          "product": "15070672519503"
         }
       ],
       "marginBottom": 0.0,
@@ -1374,7 +1374,7 @@
         "show": false
       },
       {
-        "type": "category-cadeau",
+        "type": "product-cadeau",
         "show": true
       },
       {
