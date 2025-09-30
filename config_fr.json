@@ -1294,7 +1294,7 @@
         "title": "Reliques"
       },
       "category-cadeau": {
-        "productId": "gid://shopify/Product/15070672519503",
+        "product": "gid://shopify/Product/15070672519503",
         "icon": "cloud",
         "iconFontFamily": "CupertinoIcons",
         "title": "Carte Cadeau"
