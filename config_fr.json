@@ -298,6 +298,35 @@
       "backgroundColor": null
     },
     {
+      "layout": "horizontalScroll",
+      "name": "",
+      "scrollVelocity": 5.0,
+      "height": 60.0,
+      "backgroundColor": "#92B9A5",
+      "textColor": "#1C2D24",
+      "textSize": 14.0,
+      "marginTop": 16.0,
+      "marginBottom": 16.0,
+      "items": [
+        {
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logo-naturel-cabale5.png?v=1758026120",
+          "text": "Naturel"
+        },
+        {
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logo-mif-cabale5.png?v=1758026119",
+          "text": "Made in France"
+        },
+        {
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logo-vegan-cabale5.png?v=1758026120",
+          "text": "Végan"
+        },
+        {
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logo-cruelty-free-cabale5.png?v=1758018726",
+          "text": "Cruelty free"
+        }
+      ]
+    },
+    {
       "layout": "categoryCarousel",
       "name": "",
       "marginLeft": 8.0,
