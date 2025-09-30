@@ -57,7 +57,7 @@
     {
       "layout": "horizontalScroll",
       "name": "bandeau annonce",
-      "scrollVelocity": 1.0,
+      "scrollVelocity": 1.5,
       "height": 40.0,
       "backgroundColor": "#2C3D33",
       "textColor": "#92B9A6",
@@ -66,15 +66,15 @@
       "marginBottom": 0.0,
       "items": [
         {
-          "imageUrl": "",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/CleanShot_2025-09-30_at_10.36.36.png?v=1759221520",
           "text": "LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE)"
         },
         {
-          "imageUrl": "",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/CleanShot_2025-09-30_at_10.36.36.png?v=1759221520",
           "text": "LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE)"
         },
         {
-          "imageUrl": "",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/CleanShot_2025-09-30_at_10.36.36.png?v=1759221520",
           "text": "✴LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE)"
         }
       ]
@@ -1293,7 +1293,7 @@
         "iconFontFamily": "CupertinoIcons",
         "title": "Reliques"
       },
-      "category-cadeau": {
+      "product-cadeau": {
         "product": "gid://shopify/Product/15070672519503",
         "icon": "cloud",
         "iconFontFamily": "CupertinoIcons",
