@@ -351,78 +351,60 @@
         "subtitleFontWeight": "w500",
         "descriptionFontWeight": "normal"
       },
-      "categories": [
-        {
-          "id": "featured1",
-          "title": "Utilisation",
-          "items": [
-            {
-              "title": "Produit 1",
-              "productId": "gid://shopify/Product/15070672519503",
-              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/2c53e30384b54b7a9caf865b72f63149.mp4",
-              "autoPlay": true,
-              "looping": true,
-              "mute": true,
-              "showControls": false
-            },
-            {
-              "title": "Produit 2",
-              "subtitle": "",
-              "productId": "gid://shopify/Product/15070672519503",
-              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/85894f871cdf49b695617d40fd6ce844.mp4",
-              "autoPlay": true,
-              "looping": true,
-              "mute": true,
-              "showControls": false
-            },
-            {
-              "title": "Produit 3 3",
-              "subtitle": "",
-              "description": "",
-              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/51049bd7ceb746be97334202c857d0c8.mp4",
-              "autoPlay": true,
-              "looping": true,
-              "mute": true,
-              "showControls": false
+     "categories": [
+      {
+        "id": "featured1",
+        "title": "Utilisation",
+        "items": [
+          {
+            "title": "Produit 1",
+            "productId": "gid://shopify/Product/15070672519503",
+            "videoUrl": "https://cdn.shopify.com/videos/c/o/v/2c53e30384b54b7a9caf865b72f63149.mp4",
+            "autoPlay": true,
+            "looping": true,
+            "mute": true,
+            "showControls": false
+          },
+          {
+            "title": "Produit 2",
+            "subtitle": "",
+            "productId": "gid://shopify/Product/15070672519503",
+            "videoUrl": "https://cdn.shopify.com/videos/c/o/v/85894f871cdf49b695617d40fd6ce844.mp4",
+            "autoPlay": true,
+            "looping": true,
+            "mute": true,
+            "showControls": false
+          },
+          {
+            "title": "Produit 3 3",
+            "subtitle": "",
+            "description": "",
+            "videoUrl": "https://cdn.shopify.com/videos/c/o/v/51049bd7ceb746be97334202c857d0c8.mp4",
+            "autoPlay": true,
+            "looping": true,
+            "mute": true,
+            "showControls": false
+          }
+        ]
+      },
+      {
+        "id": "trending",
+        "title": "Texture",
+        "items": [
+          {
+            "title": "Trending Now",
+            "subtitle": "Hot Items",
+            "description": "What everyone is talking about",
+            "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800",
+            "action": "navigate",
+            "actionData": {
+              "type": "category",
+              "category": "trending"
             }
-          ]
-        },
-        {
-          "id": "trending",
-          "title": "Texture",
-          "items": [
-            {
-              "title": "Trending Now",
-              "subtitle": "Hot Items",
-              "description": "What everyone is talking about",
-              "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800",
-              "action": "navigate",
-              "actionData": {
-                "type": "category",
-                "category": "trending"
-              }
-            }
-          ]
-        },
-        {
-          "id": "new",
-          "title": "Communauté",
-          "items": [
-            {
-              "title": "New Arrivals",
-              "subtitle": "Just In",
-              "description": "Fresh products just added to our collection",
-              "imageUrl": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=800",
-              "action": "navigate",
-              "actionData": {
-                "type": "category",
-                "category": "new-arrivals"
-              }
-            }
-          ]
-        }
-      ]
-    },
+          }
+        ]
+      }
+    ],
     {
       "layout": "spacer",
       "useLightColor": false,
@@ -1312,7 +1294,7 @@
         "title": "Reliques"
       },
       "category-cadeau": {
-        "category": "gid://shopify/Collection/7504509108458",
+        "productId": "gid://shopify/Product/15070672519503",
         "icon": "cloud",
         "iconFontFamily": "CupertinoIcons",
         "title": "Carte Cadeau"
