@@ -351,60 +351,61 @@
         "subtitleFontWeight": "w500",
         "descriptionFontWeight": "normal"
       },
-     "categories": [
-      {
-        "id": "featured1",
-        "title": "Utilisation",
-        "items": [
-          {
-            "title": "Produit 1",
-            "productId": "gid://shopify/Product/15070672519503",
-            "videoUrl": "https://cdn.shopify.com/videos/c/o/v/2c53e30384b54b7a9caf865b72f63149.mp4",
-            "autoPlay": true,
-            "looping": true,
-            "mute": true,
-            "showControls": false
-          },
-          {
-            "title": "Produit 2",
-            "subtitle": "",
-            "productId": "gid://shopify/Product/15070672519503",
-            "videoUrl": "https://cdn.shopify.com/videos/c/o/v/85894f871cdf49b695617d40fd6ce844.mp4",
-            "autoPlay": true,
-            "looping": true,
-            "mute": true,
-            "showControls": false
-          },
-          {
-            "title": "Produit 3 3",
-            "subtitle": "",
-            "description": "",
-            "videoUrl": "https://cdn.shopify.com/videos/c/o/v/51049bd7ceb746be97334202c857d0c8.mp4",
-            "autoPlay": true,
-            "looping": true,
-            "mute": true,
-            "showControls": false
-          }
-        ]
-      },
-      {
-        "id": "trending",
-        "title": "Texture",
-        "items": [
-          {
-            "title": "Trending Now",
-            "subtitle": "Hot Items",
-            "description": "What everyone is talking about",
-            "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800",
-            "action": "navigate",
-            "actionData": {
-              "type": "category",
-              "category": "trending"
+      "categories": [
+        {
+          "id": "featured1",
+          "title": "Utilisation",
+          "items": [
+            {
+              "title": "Produit 1",
+              "productId": "gid://shopify/Product/15070672519503",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/2c53e30384b54b7a9caf865b72f63149.mp4",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Produit 2",
+              "subtitle": "",
+              "productId": "gid://shopify/Product/15070672519503",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/85894f871cdf49b695617d40fd6ce844.mp4",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Produit 3 3",
+              "subtitle": "",
+              "description": "",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/51049bd7ceb746be97334202c857d0c8.mp4",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
             }
-          }
-        ]
-      }
-    ],
+          ]
+        },
+        {
+          "id": "trending",
+          "title": "Texture",
+          "items": [
+            {
+              "title": "Trending Now",
+              "subtitle": "Hot Items",
+              "description": "What everyone is talking about",
+              "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800",
+              "action": "navigate",
+              "actionData": {
+                "type": "category",
+                "category": "trending"
+              }
+            }
+          ]
+        }
+      ]
+    },
     {
       "layout": "spacer",
       "useLightColor": false,
