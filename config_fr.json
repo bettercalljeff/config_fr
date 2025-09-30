@@ -282,22 +282,6 @@
       "backgroundColor": null
     },
     {
-      "layout": "featureVideo",
-      "name": "Bandeau vidéo",
-      "url": "https://github.com/bettercalljeff/test-video/raw/refs/heads/main/bandeau-V2.mp4",
-      "autoPlay": true,
-      "aspectRatio": 10,
-      "enableTimeIndicator": false,
-      "tapToPlayPause": false,
-      "holdToPlayPause": false,
-      "marginLeft": 0,
-      "marginRight": 0,
-      "marginTop": 5,
-      "marginBottom": 5,
-      "borderRadius": 0,
-      "backgroundColor": null
-    },
-    {
       "layout": "horizontalScroll",
       "name": "",
       "scrollVelocity": 5.0,
