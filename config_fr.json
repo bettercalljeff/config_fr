@@ -55,6 +55,28 @@
       "layout": "spacer"
     },
     {
+      "layout": "horizontalScroll",
+      "name": "",
+      "scrollVelocity": 5.0,
+      "height": 40.0,
+      "backgroundColor": "#2C3D33",
+      "textColor": "#92B9A6",
+      "textSize": 13.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "items": [
+        {
+          "text": "✴ LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE) ✴"
+        },
+        {
+          "text": "✴ LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE) ✴"
+        },
+        {
+          "text": "✴ LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE) ✴"
+        }
+      ]
+    },
+    {
       "isSafeArea": false,
       "showSearch": false,
       "usePrimaryColor": true,
