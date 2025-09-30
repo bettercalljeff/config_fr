@@ -303,7 +303,7 @@
       "scrollVelocity": 5.0,
       "height": 60.0,
       "backgroundColor": "#2C3D33",
-      "textColor": "#1C2D24",
+      "textColor": "#92B9A6",
       "textSize": 14.0,
       "marginTop": 16.0,
       "marginBottom": 16.0,
@@ -318,7 +318,7 @@
         },
         {
           "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logo-vegan-cabale5.png?v=1758026120",
-          "text": "Végan"
+          "text": "Vegan"
         },
         {
           "imageUrl": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/logo-cruelty-free-cabale5.png?v=1758018726",
