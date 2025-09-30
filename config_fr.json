@@ -56,8 +56,8 @@
     },
     {
       "layout": "horizontalScroll",
-      "name": "",
-      "scrollVelocity": 5.0,
+      "name": "bandeau annonce",
+      "scrollVelocity": 1.0,
       "height": 40.0,
       "backgroundColor": "#2C3D33",
       "textColor": "#92B9A6",
@@ -66,13 +66,13 @@
       "marginBottom": 0.0,
       "items": [
         {
-          "text": "✴ LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE) ✴"
+          "text": "LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE)"
         },
         {
-          "text": "✴ LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE) ✴"
+          "text": "LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE)"
         },
         {
-          "text": "✴ LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE) ✴"
+          "text": "✴LIVRAISON RELAIS OFFERTE DÈS 60€ D'ACHATS (FRANCE ET BELGIQUE)"
         }
       ]
     },
