@@ -353,32 +353,60 @@
       "categories": [
         {
           "id": "featured1",
-          "title": "Utilisation",
+          "title": "Application",
           "items": [
             {
-              "title": "Produit 1",
+              "title": "Masque",
               "productId": "gid://shopify/Product/15070672519503",
-              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/2c53e30384b54b7a9caf865b72f63149.mp4",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/6d9f3886eae04a9a89c8b4ce06568eca.mov",
               "autoPlay": true,
               "looping": true,
               "mute": true,
               "showControls": false
             },
             {
-              "title": "Produit 2",
+              "title": "Sérum",
               "subtitle": "",
               "productId": "gid://shopify/Product/15070672519503",
-              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/85894f871cdf49b695617d40fd6ce844.mp4",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/095e294dd736476d8df95a985fa68c3f.mov",
               "autoPlay": true,
               "looping": true,
               "mute": true,
               "showControls": false
             },
             {
-              "title": "Produit 3 3",
+              "title": "Tonique",
               "subtitle": "",
               "description": "",
-              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/51049bd7ceb746be97334202c857d0c8.mp4",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/ca76228882b944faa9b14a5f49855a58.mov",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Huile",
+              "subtitle": "",
+              "productId": "gid://shopify/Product/15070672519503",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/a33600fc3aed48a5820cfdb760f2f5ff.mov",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },{
+              "title": "Mousse",
+              "subtitle": "",
+              "productId": "gid://shopify/Product/15070672519503",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/35bb983fb6d942dc82a630cfdc926610.mov",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },{
+              "title": "Crème",
+              "subtitle": "",
+              "productId": "gid://shopify/Product/15070672519503",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/301ae0f2f1274b76994fb4332329db2d.mov",
               "autoPlay": true,
               "looping": true,
               "mute": true,
