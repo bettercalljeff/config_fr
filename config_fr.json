@@ -393,7 +393,8 @@
               "looping": true,
               "mute": true,
               "showControls": false
-            },{
+            },
+            {
               "title": "Mousse",
               "subtitle": "",
               "productId": "gid://shopify/Product/15070672519503",
@@ -402,7 +403,8 @@
               "looping": true,
               "mute": true,
               "showControls": false
-            },{
+            },
+            {
               "title": "Crème",
               "subtitle": "",
               "productId": "gid://shopify/Product/15070672519503",
@@ -419,15 +421,64 @@
           "title": "Texture",
           "items": [
             {
-              "title": "Trending Now",
-              "subtitle": "Hot Items",
-              "description": "What everyone is talking about",
-              "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800",
-              "action": "navigate",
-              "actionData": {
-                "type": "category",
-                "category": "trending"
-              }
+              "title": "Sérum",
+              "subtitle": "",
+              "productId": "",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/9fb0fdd05b1a42208ba0559ddd650459.mov",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Tonique",
+              "subtitle": "",
+              "description": "",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/73434a6d2f8f4e1cbeecaea8a69f7db2.mov",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Huile",
+              "subtitle": "",
+              "productId": "",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/8d7de560472d42d684015b986063ecf4.mov",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Mousse",
+              "subtitle": "",
+              "productId": "",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/8485f044cfa044e99cd23ebadec7fc8c.mov",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+             {
+              "title": "Argile",
+              "subtitle": "",
+              "productId": "",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/3b5cf6d3708443be8a38bd8a74afd3ef.mov",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
+            },
+            {
+              "title": "Crème",
+              "subtitle": "",
+              "productId": "",
+              "videoUrl": "https://cdn.shopify.com/videos/c/o/v/af574633f186427eb894678f6963ec6d.mp4",
+              "autoPlay": true,
+              "looping": true,
+              "mute": true,
+              "showControls": false
             }
           ]
         }
