@@ -157,7 +157,7 @@
     {
       "layout": "spacer",
       "useLightColor": false,
-      "height": 10,
+      "height": 20,
       "backgroundColor": null
     },
     {
@@ -179,7 +179,7 @@
     {
       "layout": "spacer",
       "useLightColor": false,
-      "height": 10,
+      "height": 20,
       "backgroundColor": null
     },
     {
@@ -433,7 +433,7 @@
     {
       "layout": "spacer",
       "useLightColor": false,
-      "height": 10,
+      "height": 20,
       "backgroundColor": null
     },
     {
