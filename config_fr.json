@@ -443,6 +443,12 @@
       "text": "Cabale, c'est notre gamme de cosmétiques BIO et naturels ! Nos produits sont vegan et cruelty-free et surtout fabriqués en France."
     },
     {
+      "layout": "spacer",
+      "useLightColor": false,
+      "height": 20,
+      "backgroundColor": null
+    },
+    {
       "layout": "bannerImage",
       "design": "tinder",
       "fit": "cover",
