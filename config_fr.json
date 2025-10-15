@@ -618,7 +618,7 @@
           "backgroundColor": "92B9A5",
           "marginLeft": 0,
           "navigator": {
-            "url_launch": "https://www.pinterest.fr/leavesandclouds/"
+            "url_launch": "https://fr.pinterest.com/cabaleskin/"
           },
           "width": 20,
           "image": "https://cdn.shopify.com/s/files/1/0605/9750/2186/files/pinterest.png?v=1671104968",
@@ -635,7 +635,7 @@
           "textFontSize": 14,
           "height": 20,
           "navigator": {
-            "url_launch": "https://www.tiktok.com/@leavesandcloud"
+            "url_launch": "https://www.tiktok.com/@cabaleskin"
           },
           "marginRight": 10,
           "useMaxWidth": false,
@@ -648,7 +648,7 @@
           "marginRight": 5,
           "marginLeft": 0,
           "navigator": {
-            "url_launch": "https://www.linkedin.com/company/leaves-clouds"
+            "url_launch": "https://www.linkedin.com/company/cabaleskin/"
           },
           "borderRadius": 2,
           "textFontSize": 14,
