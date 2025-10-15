@@ -1743,9 +1743,4 @@
     }
   ],
   "categoriesSuggestions": [],
-  "maintainMode": {
-    "forceMaintain": false,
-    "startTime": "2025-10-8T16:00:00+0100",
-    "endTime": "2025-10-9T16:00:00+0100"
-  }
 }
