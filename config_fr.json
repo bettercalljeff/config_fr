@@ -84,7 +84,6 @@
       "name": "Product Demo Video",
       "url": "https://cdn.shopify.com/videos/c/o/v/dd7c603ba6ab4124a4e7cba523771076.mp4",
       "autoPlay": true,
-      "aspectRatio": 1.7,
       "enableTimeIndicator": false,
       "tapToPlayPause": false,
       "holdToPlayPause": false,
