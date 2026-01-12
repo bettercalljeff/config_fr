@@ -1463,7 +1463,7 @@
       },
       {
         "type": "category-Reliques",
-        "show": true
+        "show": false
       },
       {
         "type": "categories",
