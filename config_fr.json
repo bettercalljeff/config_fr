@@ -1688,9 +1688,12 @@
     }
    ],
   "categoriesSuggestions": [],
-  "maintainMode": {
-    "forceMaintain": false,
+   "maintainMode": {
+    "forceMaintain": true,
     "startTime": "2022-10-14T16:00:00+0100",
-    "endTime": "2022-10-16T16:00:00+0100"
+    "endTime": "2022-10-16T16:00:00+0100",
+    "imageUrl": "https://cabaleskin.com/cdn/shop/files/cabale_logo_baseline_vert_sauge.svg",
+    "title": "L’application CABALE n’est plus disponible.\n",
+    "message": "Pour vous offrir une expérience toujours plus à jour,\n\nnous avons décidé de recentrer nos efforts\n\nsur le site officiel de CABALE.\n\n \n\nTous les produits, nouveautés et offres\n\nsont désormais disponibles exclusivement sur :\n\n[www.cabaleskin.com](http://www.cabaleskin.com)\n\n \n\nMerci pour votre compréhension.\n\nÀ tout de suite sur le site ✨\n"
   }
 }
